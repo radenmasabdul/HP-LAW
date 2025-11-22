@@ -1,3 +1,10 @@
 {
-  "welcome": "Selamat datang di website kami!"
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "practice": "Area Praktik",
+    "people": "Tim Kami",
+    "news": "Berita Hukum",
+    "contact": "Hubungi Kami"
+  }
 }
