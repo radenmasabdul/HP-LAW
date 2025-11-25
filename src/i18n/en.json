@@ -6,5 +6,21 @@
     "people": "Our People",
     "news": "Legal News",
     "contact": "Contact Us"
+  },
+  "section_about_us" : {
+    "title": "About Us",
+    "practice_area": "Practice Areas",
+    "years_of_experience": "Years of Experience",
+    "experienced_lawyers": "Experienced Lawyers",
+    "description": "HADIPURWANTO LAW OFFICE (HLO) is an independent law firm based in Jakarta, Indonesia. Established by dynamic, dedicated, and intelligent lawyers, HLO prioritizes the highest standards of professionalism in all its legal services. Our team of lawyers possesses expertise and wide connections across various sectors, offering exceptional experience in providing tailored legal solutions for every client.",
+    "see_more": "See More",
+    "detail": {
+      "title_protecting": "Protecting the Legal Rights and Interests of Our Clients",
+      "title_providing": "Providing Expert Legal Advice and Representation",
+      "title_tailored": "Tailored, Professional, and Effective Legal Services",
+      "title_experience": "Experienced Attorneys in Diverse Areas of Law",
+      "quotes_client": "Client's",
+      "quotes_description": "Interests, Trusted, Effective, Efficient, Proactive, Communicative."
+    }
   }
 }

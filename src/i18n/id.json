@@ -6,5 +6,21 @@
     "people": "Tim Kami",
     "news": "Berita Hukum",
     "contact": "Hubungi Kami"
+  },
+  "section_about_us": {
+    "title": "Tentang Kami",
+    "practice_area": "Area Praktik",
+    "years_of_experience": "Tahun Pengalaman",
+    "experienced_lawyers": "Pengacara Berpengalaman",
+    "description": "HADIPURWANTO LAW OFFICE (HLO) adalah firma hukum independen yang berbasis di Jakarta, Indonesia. Didirikan oleh pengacara yang dinamis, berdedikasi, dan cerdas, HLO memprioritaskan standar profesionalisme tertinggi dalam semua layanan hukumnya. Tim pengacara kami memiliki keahlian dan jaringan luas di berbagai sektor, menawarkan pengalaman luar biasa dalam memberikan solusi hukum yang disesuaikan untuk setiap klien.",
+    "see_more": "Lihat Selengkapnya",
+    "detail": {
+      "title_protecting": "Melindungi Hak dan Kepentingan Hukum Klien Kami",
+      "title_providing": "Memberikan Nasihat dan Representasi Hukum yang Ahli",
+      "title_tailored": "Layanan Hukum Profesional, Efektif, dan Tepat Sasaran",
+      "title_experience": "Pengacara Berpengalaman di Berbagai Bidang Hukum",
+      "quotes_client": "Kepentingan Klien,",
+      "quotes_description": "Dipercaya, Efektif, Efisien, Proaktif, Komunikatif."
+    }
   }
 }
