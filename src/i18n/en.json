@@ -22,5 +22,34 @@
       "quotes_client": "Client's",
       "quotes_description": "Interests, Trusted, Effective, Efficient, Proactive, Communicative."
     }
+  },
+  "section_practice_areas" : {
+    "title": "Practice Areas",
+    "description": "At HADIPURWANTO LAW OFFICE, we offer a wide range of legal services, specializing in both contentious and non-contentious matters. Our experienced attorneys are equipped to provide tailored legal solutions to meet the needs of our diverse clientele.",
+    "see_more": "See More",
+    "content": {
+      "commercial": {
+        "title":"Commercial Litigation",
+        "description": "We specialize in resolving complex business disputes through effective legal strategies and representation."
+      },
+      "criminal": {
+        "tittle": "Criminal Litigation",
+        "description": "Defending clients against criminal charges with thorough case analysis and committed legal defense."
+      },
+      "intellectual": {
+        "title": "Intellectual Property Rights",
+        "description": "Protecting your creations and inventions through strategic IP protection and enforcement."
+      },
+      "mergers": {
+        "title": "Mergers & Acquisitions",
+        "description": "Providing expert legal advice in corporate transactions, from negotiation to finalization."
+      },
+      "banking": {
+        "title": "Banking and Finance Law",
+        "description": "Offering legal solutions for regulatory compliance, investment, and banking transactions."
+      }
+    },
+    "our_client": "Our Clients",
+    "our_client_description": "We take pride in partnering with leading companies across various industries."
   }
 }

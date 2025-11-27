@@ -22,5 +22,34 @@
       "quotes_client": "Kepentingan Klien,",
       "quotes_description": "Dipercaya, Efektif, Efisien, Proaktif, Komunikatif."
     }
+  },
+  "section_practice_areas": {
+    "title": "Area Praktik",
+    "description": "Di HADIPURWANTO LAW OFFICE, kami menyediakan berbagai layanan hukum, baik litigasi maupun non-litigasi. Pengacara berpengalaman kami siap memberikan solusi hukum yang disesuaikan untuk memenuhi kebutuhan klien kami yang beragam.",
+    "see_more": "Lihat Selengkapnya",
+    "content": {
+      "commercial": {
+        "title": "Litigasi Komersial",
+        "description": "Kami berfokus pada penyelesaian sengketa bisnis yang kompleks melalui strategi hukum yang efektif dan representasi profesional."
+      },
+      "criminal": {
+        "title": "Litigasi Pidana",
+        "description": "Membela klien terhadap tuduhan pidana dengan analisis kasus yang mendalam dan pembelaan hukum yang kuat."
+      },
+      "intellectual": {
+        "title": "Hak Kekayaan Intelektual",
+        "description": "Melindungi karya dan invensi Anda melalui strategi perlindungan dan penegakan HKI yang tepat."
+      },
+      "mergers": {
+        "title": "Merger & Akuisisi",
+        "description": "Memberikan nasihat hukum terkait transaksi korporasi, mulai dari negosiasi hingga finalisasi."
+      },
+      "banking": {
+        "title": "Hukum Perbankan dan Keuangan",
+        "description": "Menyediakan solusi hukum terkait kepatuhan regulasi, investasi, dan transaksi perbankan."
+      }
+    },
+    "our_client": "Klien Kami",
+    "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
   }
 }
