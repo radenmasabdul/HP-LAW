@@ -51,5 +51,57 @@
     },
     "our_client": "Klien Kami",
     "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
+  },
+  "section_our_people": {
+    "title": "Tim Kami",
+    "description": "HADIPURWANTO LAW OFFICE didirikan oleh pengacara yang dinamis dan cerdas, dengan kualitas profesional, keterampilan, dan keahlian. Pengacara kami memiliki pengetahuan dan jaringan luas di berbagai sektor, menawarkan pengalaman luar biasa dalam memberikan solusi untuk klien melalui riset, analisis, dan pemikiran kreatif.",
+    "people": {
+      "1": {
+        "name": "Nicolas Desta Pramana, S.H.",
+        "title": "Managing Partner",
+        "description": "Desta adalah Managing Partner di HLO. Ia lulus dengan predikat cumlaude dari Universitas..."
+      },
+      "2": {
+        "name": "Ary Ramadhanoe Amanza, S.H.",
+        "title": "Senior Associate",
+        "description": "Ary Ramadhanoe Amanza adalah Senior Associate di Kantor Hukum Hadipurwanto..."
+      },
+      "3": {
+        "name": "Irfan Andityo, S.H.",
+        "title": "Associate",
+        "description": "Irfan adalah seorang Associate di Kantor Hukum Hadipurwanto. Ia lulus..."
+      },
+      "4": {
+        "name": "Fabyani Fadillah, S.H.",
+        "title": "Associate",
+        "description": "Fanny adalah seorang Associate di Kantor Hukum Hadipurwanto. Ia berspesialisasi dalam..."
+      },
+      "5": {
+        "name": "Amabel S. M. Panjaitan, S.H.",
+        "title": "Associate",
+        "description": "Abel adalah Associate di HLO. Ia fokus pada hukum korporasi, kontrak, dan..."
+      },
+      "6": {
+        "name": "Aro Sintong Malau, S.H.",
+        "title": "Associate",
+        "description": "Aro adalah seorang Associate di Kantor Hukum Hadipurwanto (“HLO”). Ia lulus dari..."
+      }
+    },
+    "benefit": "Manfaat",
+    "title_benefit": "Di HADIPURWANTO LAW OFFICE, kami memprioritaskan membangun hubungan yang kuat dengan mitra hukum baik lokal maupun internasional untuk memberikan layanan hukum berkualitas tinggi bagi klien kami.",
+    "company": {
+      "1": {
+        "title": "Kunjungan Kehormatan dari CNPLaw LLP, Singapura",
+        "description": "Kami baru-baru ini menyambut CNPLaw LLP dari Singapura untuk memperkuat kolaborasi dan bertukar keahlian hukum demi pelayanan klien yang lebih baik."
+      },
+      "2": {
+        "title": "Kunjungan Kehormatan dari Eugene Thuraisingam LLP, Singapura",
+        "description": "Kunjungan kami dari Eugene Thuraisingam LLP di Singapura semakin memperluas jaringan global kami, dengan fokus pada pengembangan solusi hukum dan pertukaran pengetahuan."
+      },
+      "3": {
+        "title": "Kunjungan ke Puno & Puno Law Office, Filipina",
+        "description": "Tim kami mengunjungi Puno & Puno Law Office di Filipina untuk memperkuat kemitraan dan membahas peluang kolaborasi di masa depan."
+      }
+    }
   }
 }

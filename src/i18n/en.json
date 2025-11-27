@@ -51,5 +51,57 @@
     },
     "our_client": "Our Clients",
     "our_client_description": "We take pride in partnering with leading companies across various industries."
+  },
+  "section_our_people" : {
+    "title": "Our People",
+    "description": "HADIPURWANTO LAW OFFICE is established by dynamic and intelligent lawyers, with professional qualities, skills, and expertise. Our lawyers have extensive knowledge and connections across various sectors, offering excellent experience in providing solutions for clients through research, analysis, and creative thinking.",
+    "people": {
+      "1": {
+        "name": "Nicolas Desta Pramana, S.H.",
+        "title": "Managing Partner",
+        "description": "Desta is the Managing Partner of HLO. He graduated in law with cum..."
+      },
+      "2": {
+        "name": "Ary Ramadhanoe Amanza, S...",
+        "title": "Senior Associate",
+        "description": "Ary Ramadhanoe Amanza is a Senior Associate of Hadipurwanto Law O..."
+      },
+      "3": {
+        "name": "Irfan Andityo, S.H.",
+        "title": "Associate",
+        "description": "Irfan is an Associate at Hadipurwanto Law Office. He grad..."
+      },
+      "4": {
+        "name": "Fabyani Fadillah, S.H.",
+        "title": "Associate",
+        "description": "Fanny is an Associate of Hadipurwanto Law Office. She gra..."
+      },
+      "5": {
+        "name": "Amabel S. M. Panjaitan, S.H...",
+        "title": "Associate",
+        "description": "Abel is an Associate of Hadipurwanto Law Office (“HLO”)..."
+      },
+      "6": {
+        "name": "Aro Sintong Malau, S.H.",
+        "title": "Associate",
+        "description": "Aro is an Associate at Hadipurwanto Law Office (“HLO”). He graduated f..."
+      }
+    },
+    "benefit": "Benefits",
+    "title_benefit": "At HADIPURWANTO LAW OFFICE, we prioritize building strong relationships with both local and international legal partners to deliver the highest quality legal services for our clients.",
+    "company": {
+      "1": {
+        "title": "Courtesy Visit from CNPLaw LLP, Singapore",
+        "description": "We recently welcomed CNPLaw LLP from Singapore to strengthen our collaboration and exchange legal expertise for better client service."
+      },
+      "2": {
+        "title": "Courtesy Visit from Eugene Thuraisingam LLP, Singapore",
+        "description": "Our visit from Eugene Thuraisingam LLP in Singapore further enhances our global network, focusing on advancing legal solutions and shared knowledge."
+      },
+      "3": {
+        "title": "Courtesy Visit to Puno & Puno Law Office, Philippines",
+        "description": "Our team visited Puno & Puno Law Office in the Philippines to solidify our partnership and discuss future collaborative opportunities."
+      }
+    }
   }
 }
