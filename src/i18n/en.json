@@ -151,5 +151,15 @@
       "submit": "Send Message",
       "submit_processing": "Sending..."
     }
+  },
+  "footer": {
+    "title": "HADIPURWANTO LAW OFFICE is a trusted, dynamic law firm offering expert legal services across various sectors, committed to providing innovative and effective solutions for both businesses and individuals.",
+    "copyright": "Copyright",
+    "author": "Skripsi Team Binus Online",
+    "contact_us": "Get in Touch",
+    "email": "info@hadipurwantolaw.com",
+    "address": "Treasury Tower, 2nd Floor, Unit K, District 8, SCBD, Jenderal Sudirman Street No. 52-53, Senayan, Kebayoran Baru, South Jakarta 12190, Indonesia",
+    "phone": "(62 21) 5020 2665",
+    "fax": "(62 21) 5020 2665"
   }
 }
