@@ -71,7 +71,7 @@ export default function LegalSection() {
                   ))}
                 </TabsList>
 
-                <TabsContent value="regulatory" className="px-4 md:px-10 lg:px-20 pt-32 md:pt-10">
+                <TabsContent value="regulatory" className="px-4 md:px-10 pt-24 md:pt-10">
                   <div className="flex flex-col divide-y divide-black-light">
                     {articles.map((article) => (
                       <div key={article.id} className="flex flex-col md:flex-row gap-4 md:gap-6 py-6 items-start">
@@ -84,16 +84,16 @@ export default function LegalSection() {
                         </div>
 
                         <div className="flex-1 flex flex-col gap-2">
-                          <p className="text-grey-medium text-sm md:text-base font-normal fonts-inter">
+                          <p className="text-grey-medium text-base font-normal fonts-inter">
                             {t(article.date)}
                           </p>
-                          <p className="text-white text-xl md:text-2xl font-bold fonts-inter">
+                          <p className="text-white text-2xl font-bold fonts-inter">
                             {t(article.title)}
                           </p>
                           <p className="text-grey-medium text-xs font-normal fonts-inter">
                             By <span className="text-white text-xs font-normal fonts-inter">{t(article.author)}</span>
                           </p>
-                          <p className="text-grey-medium text-sm md:text-base font-medium fonts-inter">
+                          <p className="text-grey-medium text-base font-medium fonts-inter">
                             {t(article.description)}
                           </p>
                         </div>
