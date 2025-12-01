@@ -6,5 +6,161 @@
     "people": "Tim Kami",
     "news": "Berita Hukum",
     "contact": "Hubungi Kami"
-  }
+  },
+  "section_about_us": {
+    "title": "Tentang Kami",
+    "practice_area": "Area Praktik",
+    "years_of_experience": "Tahun Pengalaman",
+    "experienced_lawyers": "Pengacara Berpengalaman",
+    "description": "HADIPURWANTO LAW OFFICE (HLO) adalah firma hukum independen yang berbasis di Jakarta, Indonesia. Didirikan oleh pengacara yang dinamis, berdedikasi, dan cerdas, HLO memprioritaskan standar profesionalisme tertinggi dalam semua layanan hukumnya. Tim pengacara kami memiliki keahlian dan jaringan luas di berbagai sektor, menawarkan pengalaman luar biasa dalam memberikan solusi hukum yang disesuaikan untuk setiap klien.",
+    "see_more": "Lihat Selengkapnya",
+    "detail": {
+      "title_protecting": "Melindungi Hak dan Kepentingan Hukum Klien Kami",
+      "title_providing": "Memberikan Nasihat dan Representasi Hukum yang Ahli",
+      "title_tailored": "Layanan Hukum Profesional, Efektif, dan Tepat Sasaran",
+      "title_experience": "Pengacara Berpengalaman di Berbagai Bidang Hukum",
+      "quotes_client": "Kepentingan Klien,",
+      "quotes_description": "Dipercaya, Efektif, Efisien, Proaktif, Komunikatif."
+    }
+  },
+  "section_practice_areas": {
+    "title": "Area Praktik",
+    "description": "Di HADIPURWANTO LAW OFFICE, kami menyediakan berbagai layanan hukum, baik litigasi maupun non-litigasi. Pengacara berpengalaman kami siap memberikan solusi hukum yang disesuaikan untuk memenuhi kebutuhan klien kami yang beragam.",
+    "see_more": "Lihat Selengkapnya",
+    "content": {
+      "commercial": {
+        "title": "Litigasi Komersial",
+        "description": "Kami berfokus pada penyelesaian sengketa bisnis yang kompleks melalui strategi hukum yang efektif dan representasi profesional."
+      },
+      "criminal": {
+        "title": "Litigasi Pidana",
+        "description": "Membela klien terhadap tuduhan pidana dengan analisis kasus yang mendalam dan pembelaan hukum yang kuat."
+      },
+      "intellectual": {
+        "title": "Hak Kekayaan Intelektual",
+        "description": "Melindungi karya dan invensi Anda melalui strategi perlindungan dan penegakan HKI yang tepat."
+      },
+      "mergers": {
+        "title": "Merger & Akuisisi",
+        "description": "Memberikan nasihat hukum terkait transaksi korporasi, mulai dari negosiasi hingga finalisasi."
+      },
+      "banking": {
+        "title": "Hukum Perbankan dan Keuangan",
+        "description": "Menyediakan solusi hukum terkait kepatuhan regulasi, investasi, dan transaksi perbankan."
+      }
+    },
+    "our_client": "Klien Kami",
+    "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
+  },
+  "section_our_people": {
+    "title": "Tim Kami",
+    "description": "HADIPURWANTO LAW OFFICE didirikan oleh pengacara yang dinamis dan cerdas, dengan kualitas profesional, keterampilan, dan keahlian. Pengacara kami memiliki pengetahuan dan jaringan luas di berbagai sektor, menawarkan pengalaman luar biasa dalam memberikan solusi untuk klien melalui riset, analisis, dan pemikiran kreatif.",
+    "people": {
+      "1": {
+        "name": "Nicolas Desta Pramana, S.H.",
+        "title": "Managing Partner",
+        "description": "Desta adalah Managing Partner di HLO. Ia lulus dengan predikat cumlaude dari Universitas..."
+      },
+      "2": {
+        "name": "Ary Ramadhanoe Amanza, S.H.",
+        "title": "Senior Associate",
+        "description": "Ary Ramadhanoe Amanza adalah Senior Associate di Kantor Hukum Hadipurwanto..."
+      },
+      "3": {
+        "name": "Irfan Andityo, S.H.",
+        "title": "Associate",
+        "description": "Irfan adalah seorang Associate di Kantor Hukum Hadipurwanto. Ia lulus..."
+      },
+      "4": {
+        "name": "Fabyani Fadillah, S.H.",
+        "title": "Associate",
+        "description": "Fanny adalah seorang Associate di Kantor Hukum Hadipurwanto. Ia berspesialisasi dalam..."
+      },
+      "5": {
+        "name": "Amabel S. M. Panjaitan, S.H.",
+        "title": "Associate",
+        "description": "Abel adalah Associate di HLO. Ia fokus pada hukum korporasi, kontrak, dan..."
+      },
+      "6": {
+        "name": "Aro Sintong Malau, S.H.",
+        "title": "Associate",
+        "description": "Aro adalah seorang Associate di Kantor Hukum Hadipurwanto (“HLO”). Ia lulus dari..."
+      }
+    },
+    "benefit": "Manfaat",
+    "title_benefit": "Di HADIPURWANTO LAW OFFICE, kami memprioritaskan membangun hubungan yang kuat dengan mitra hukum baik lokal maupun internasional untuk memberikan layanan hukum berkualitas tinggi bagi klien kami.",
+    "company": {
+      "1": {
+        "title": "Kunjungan Kehormatan dari CNPLaw LLP, Singapura",
+        "description": "Kami baru-baru ini menyambut CNPLaw LLP dari Singapura untuk memperkuat kolaborasi dan bertukar keahlian hukum demi pelayanan klien yang lebih baik."
+      },
+      "2": {
+        "title": "Kunjungan Kehormatan dari Eugene Thuraisingam LLP, Singapura",
+        "description": "Kunjungan kami dari Eugene Thuraisingam LLP di Singapura semakin memperluas jaringan global kami, dengan fokus pada pengembangan solusi hukum dan pertukaran pengetahuan."
+      },
+      "3": {
+        "title": "Kunjungan ke Puno & Puno Law Office, Filipina",
+        "description": "Tim kami mengunjungi Puno & Puno Law Office di Filipina untuk memperkuat kemitraan dan membahas peluang kolaborasi di masa depan."
+      }
+    }
+  },
+  "section_legal": {
+    "title": "Berita Hukum",
+    "description": "Tetap update dengan perkembangan hukum dan regulasi terbaru yang relevan dengan industri yang kami layani.",
+    "tab": {
+      "regulatory": "Pembaruan Regulasi",
+      "court": "Putusan Pengadilan",
+      "industry": "Wawasan Industri",
+      "policy": "Perkembangan Kebijakan",
+      "legal": "Opini Hukum"
+    },
+    "article": {
+      "1": {
+        "date": "3 September 2020",
+        "title": "Jaminan Pemerintah untuk Pelaku Usaha Korporasi Melalui Penjamin yang Ditunjuk dalam Pelaksanaan Program Pemulihan Ekonomi Nasional...",
+        "author": "Deystia Ayesha Rae",
+        "description": "Untuk mendukung program pemulihan ekonomi nasional sebagaimana diamanatkan dalam Pasal 19 (2) Peraturan Pemerintah No. 23/2020 yang diubah dengan Peraturan Pemerintah No. 43/2020 mengenai Pelaksanaan Program Pemulihan Ekonomi Nasional dalam Hal Mendukung St..."
+      },
+      "2": {
+        "date": "14 Agustus 2020",
+        "title": "Penghentian Penuntutan Berdasarkan Keadilan Restoratif",
+        "author": "Andreas Rae Johanes",
+        "description": "Pada 21 Juli 2020, Jaksa Agung Republik Indonesia mengeluarkan Peraturan Kejaksaan No. 15 Tahun 2020 tentang Penghentian Penuntutan Berdasarkan Keadilan Restoratif (“PR 15/2020”) yang mulai berlaku sehari setelah tanggal diterbitkan, yaitu 22 Juli 2020. Latar belakangnya..."
+      },
+      "3": {
+        "date": "5 April 2018",
+        "title": "Peraturan Baru tentang Badan Sertifikasi Profesi Nasional...",
+        "author": "Deystia Ayesha Rae",
+        "description": "Pada 16 Maret 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 10 Tahun 2018 tentang Badan Sertifikasi Profesi Nasional (BNSP) (“GR 10/2018”) yang mulai berlaku pada hari yang sama. Peraturan ini diterbitkan untuk menggantikan..."
+      }
+    }
+  },
+  "section_consultation_form": {
+    "title": "Formulir Konsultasi",
+    "alert": {
+      "success": "Berhasil",
+      "error": "Kesalahan",
+      "info": "Info"
+    },
+    "form": {
+      "first_name": "Nama Depan",
+      "last_name": "Nama Belakang",
+      "email": "Email",
+      "phone": "Telepon",
+      "message": "Pesan",
+      "submit": "Kirim Pesan",
+      "submit_processing": "Mengirim..."
+    }
+  },
+  "footer": {
+    "title": "HADIPURWANTO LAW OFFICE adalah firma hukum yang terpercaya dan dinamis, menawarkan layanan hukum profesional di berbagai sektor, berkomitmen untuk menyediakan solusi yang inovatif dan efektif bagi perusahaan maupun individu.",
+    "copyright": "Hak Cipta",
+    "author": "Tim Skripsi Binus Online",
+    "contact_us": "Hubungi Kami",
+    "email": "info@hadipurwantolaw.com",
+    "address": "Treasury Tower, Lantai 2, Unit K, Distrik 8, SCBD, Jl. Jenderal Sudirman No. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan 12190",
+    "phone": "(62 21) 5020 2665",
+    "fax": "(62 21) 5020 2665"
+}
+
 }

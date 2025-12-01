@@ -6,5 +6,160 @@
     "people": "Our People",
     "news": "Legal News",
     "contact": "Contact Us"
+  },
+  "section_about_us" : {
+    "title": "About Us",
+    "practice_area": "Practice Areas",
+    "years_of_experience": "Years of Experience",
+    "experienced_lawyers": "Experienced Lawyers",
+    "description": "HADIPURWANTO LAW OFFICE (HLO) is an independent law firm based in Jakarta, Indonesia. Established by dynamic, dedicated, and intelligent lawyers, HLO prioritizes the highest standards of professionalism in all its legal services. Our team of lawyers possesses expertise and wide connections across various sectors, offering exceptional experience in providing tailored legal solutions for every client.",
+    "see_more": "See More",
+    "detail": {
+      "title_protecting": "Protecting the Legal Rights and Interests of Our Clients",
+      "title_providing": "Providing Expert Legal Advice and Representation",
+      "title_tailored": "Tailored, Professional, and Effective Legal Services",
+      "title_experience": "Experienced Attorneys in Diverse Areas of Law",
+      "quotes_client": "Client's",
+      "quotes_description": "Interests, Trusted, Effective, Efficient, Proactive, Communicative."
+    }
+  },
+  "section_practice_areas" : {
+    "title": "Practice Areas",
+    "description": "At HADIPURWANTO LAW OFFICE, we offer a wide range of legal services, specializing in both contentious and non-contentious matters. Our experienced attorneys are equipped to provide tailored legal solutions to meet the needs of our diverse clientele.",
+    "see_more": "See More",
+    "content": {
+      "commercial": {
+        "title":"Commercial Litigation",
+        "description": "We specialize in resolving complex business disputes through effective legal strategies and representation."
+      },
+      "criminal": {
+        "title": "Criminal Litigation",
+        "description": "Defending clients against criminal charges with thorough case analysis and committed legal defense."
+      },
+      "intellectual": {
+        "title": "Intellectual Property Rights",
+        "description": "Protecting your creations and inventions through strategic IP protection and enforcement."
+      },
+      "mergers": {
+        "title": "Mergers & Acquisitions",
+        "description": "Providing expert legal advice in corporate transactions, from negotiation to finalization."
+      },
+      "banking": {
+        "title": "Banking and Finance Law",
+        "description": "Offering legal solutions for regulatory compliance, investment, and banking transactions."
+      }
+    },
+    "our_client": "Our Clients",
+    "our_client_description": "We take pride in partnering with leading companies across various industries."
+  },
+  "section_our_people" : {
+    "title": "Our People",
+    "description": "HADIPURWANTO LAW OFFICE is established by dynamic and intelligent lawyers, with professional qualities, skills, and expertise. Our lawyers have extensive knowledge and connections across various sectors, offering excellent experience in providing solutions for clients through research, analysis, and creative thinking.",
+    "people": {
+      "1": {
+        "name": "Nicolas Desta Pramana, S.H.",
+        "title": "Managing Partner",
+        "description": "Desta is the Managing Partner of HLO. He graduated in law with cum..."
+      },
+      "2": {
+        "name": "Ary Ramadhanoe Amanza, S...",
+        "title": "Senior Associate",
+        "description": "Ary Ramadhanoe Amanza is a Senior Associate of Hadipurwanto Law O..."
+      },
+      "3": {
+        "name": "Irfan Andityo, S.H.",
+        "title": "Associate",
+        "description": "Irfan is an Associate at Hadipurwanto Law Office. He grad..."
+      },
+      "4": {
+        "name": "Fabyani Fadillah, S.H.",
+        "title": "Associate",
+        "description": "Fanny is an Associate of Hadipurwanto Law Office. She gra..."
+      },
+      "5": {
+        "name": "Amabel S. M. Panjaitan, S.H...",
+        "title": "Associate",
+        "description": "Abel is an Associate of Hadipurwanto Law Office (“HLO”)..."
+      },
+      "6": {
+        "name": "Aro Sintong Malau, S.H.",
+        "title": "Associate",
+        "description": "Aro is an Associate at Hadipurwanto Law Office (“HLO”). He graduated f..."
+      }
+    },
+    "benefit": "Benefits",
+    "title_benefit": "At HADIPURWANTO LAW OFFICE, we prioritize building strong relationships with both local and international legal partners to deliver the highest quality legal services for our clients.",
+    "company": {
+      "1": {
+        "title": "Courtesy Visit from CNPLaw LLP, Singapore",
+        "description": "We recently welcomed CNPLaw LLP from Singapore to strengthen our collaboration and exchange legal expertise for better client service."
+      },
+      "2": {
+        "title": "Courtesy Visit from Eugene Thuraisingam LLP, Singapore",
+        "description": "Our visit from Eugene Thuraisingam LLP in Singapore further enhances our global network, focusing on advancing legal solutions and shared knowledge."
+      },
+      "3": {
+        "title": "Courtesy Visit to Puno & Puno Law Office, Philippines",
+        "description": "Our team visited Puno & Puno Law Office in the Philippines to solidify our partnership and discuss future collaborative opportunities."
+      }
+    }
+  },
+  "section_legal" : {
+    "title": "Legal News",
+    "description": "Stay informed with the latest legal developments and regulations relevant to the industries we serve.",
+    "tab" : {
+      "regulatory": "Regulatory Updates",
+      "court": "Court Decisions",
+      "industry": "Industry Insights",
+      "policy": "Policy Departements",
+      "legal": "Legal Opinions"
+    },
+    "article": {
+      "1": {
+        "date": "September 3, 2020",
+        "title": "Government Guarantee For Corporate Business Actors Through The Appointed Guarantors In Carrying Out The National Econo...",
+        "author": "Deystia Ayesha Rae",
+        "description": "In order to support the national economic recovery program as mandated in Article 19 (2) of Government Regulation No. 23/2020 as amended by Government Regulation No. 43/2020 concerning the Execution of the National Economic Recovery program in the Event of Supporting St..."
+      },
+      "2": {
+        "date": "August 14, 2020",
+        "title": "Termination of Prosecution Based On Restorative Justice",
+        "author": "Andreas Rae Johanes",
+        "description": "On 21 July 2020, the Attorney General of Republic of Indonesia has issued a Public Prosecutor's Office Regulation No. 15 of 2020 concerning Termination of Prosecution Based On Restorative Justice (“PR 15/2020”) which came into effect a day after the issuance date, which is on 22 July 2020. The backgr..."
+      },
+      "3": {
+        "date": "April 5, 2018",
+        "title": "New Regulation on the National Professional Certification Aut...",
+        "author": "Deystia Ayesha Rae",
+        "description": "On 16 March 2018, the Government of Republic of Indonesia has issued a Government Regulation No. 10 of 2018 concerning National Professional Certification Authority (Badan Nasional Sertifikasi Profesi or “BNSP”) (“GR 10/2018”) which came into effect on the same day. This regulation is issued to replac..."
+      }
+    }
+  },
+  "section_consultation_form" : {
+    "title": "Consultation Form",
+    "alert": {
+      "success": "Success",
+      "error": "Error",
+      "info": "Info"
+    },
+    "form": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message",
+      "submit_processing": "Sending..."
+    }
+  },
+  "footer": {
+    "title": "HADIPURWANTO LAW OFFICE is a trusted, dynamic law firm offering expert legal services across various sectors, committed to providing innovative and effective solutions for both businesses and individuals.",
+    "copyright": "Copyright",
+    "author": "Skripsi Team Binus Online",
+    "contact_us": "Get in Touch",
+    "email": "info@hadipurwantolaw.com",
+    "address": "Treasury Tower, 2nd Floor, Unit K, District 8, SCBD, Jenderal Sudirman Street No. 52-53, Senayan, Kebayoran Baru, South Jakarta 12190, Indonesia",
+    "phone": "(62 21) 5020 2665",
+    "fax": "(62 21) 5020 2665"
   }
 }
