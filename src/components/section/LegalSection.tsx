@@ -49,7 +49,7 @@ export default function LegalSection() {
 
   return (
     <main className="bg-black-deep">
-      <section className="flex flex-col px-4 md:px-6 py-6 md:py-10 gap-2 md:gap-4">
+      <section className="flex flex-col px-4 md:px-20 py-6 md:py-10 gap-2 md:gap-4">
         <Card className="bg-black-medium border-black-medium rounded-none py-0!">
           <div className="py-6 md:py-10">
             <div className="text-center px-4">
@@ -61,7 +61,7 @@ export default function LegalSection() {
               </p>
             </div>
 
-            <div className="flex justify-center items-center py-6 md:py-10">
+            <div className="flex justify-center items-center">
               <Tabs defaultValue="regulatory" className="w-full">
                 <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center px-4 md:px-36">
                   {tabs.map((tab) => (
@@ -109,7 +109,7 @@ export default function LegalSection() {
                     ))}
                   </div>
 
-                  <div className="flex justify-center items-center text-center py-4 md:py-6">
+                  <div className="flex justify-center items-center text-center mt-2 md:mt-10">
                     <Button asChild className="bg-gold-medium hover:bg-gold-medium hover:opacity-90 text-white rounded-none w-full md:w-auto">
                       <a href="/news" className="flex items-center justify-center gap-2 px-6 py-3">
                         <span className="text-sm fonts-inter text-black">See More</span>
