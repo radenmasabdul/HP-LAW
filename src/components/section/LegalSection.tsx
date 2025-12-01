@@ -63,7 +63,7 @@ export default function LegalSection() {
 
             <div className="flex justify-center items-center">
               <Tabs defaultValue="regulatory" className="w-full">
-                <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center px-4 md:px-36">
+                <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center px-4 pt-1 md:px-20 md:pt-12">
                   {tabs.map((tab) => (
                     <TabsTrigger key={tab.value} value={tab.value} className={tabClass}>
                       {t(tab.label)}
