@@ -74,11 +74,11 @@ export default function Navbar() {
               <DropdownMenuItem onClick={() => i18n.changeLanguage("id")}>Indonesia</DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
-
+          
           <Button asChild className="bg-gold-medium hover:bg-gold-medium text-white rounded-none hidden md:flex">
-            <a href="/contact" className="flex items-center gap-2">
+            <a href="tel:+622150202665" className="flex items-center gap-2">
               <img src={phoneIcon} alt="phone-icon" />
-              <span className="text-sm fonts-inter text-black">{t('navbar.contact')}</span>
+              <span className="text-sm fonts-inter text-black">{t("navbar.contact")}</span>
             </a>
           </Button>
 
@@ -118,12 +118,11 @@ export default function Navbar() {
                 {t(`navbar.${item.key}`)}
               </a>
             ))}
-
-            {/* Contact button mobile */}
+            
             <Button asChild className="bg-gold-medium hover:bg-gold-medium text-white rounded-none mt-2">
-              <a href="/contact" className="flex items-center gap-2">
+              <a href="tel:+622150202665" className="flex items-center gap-2">
                 <img src={phoneIcon} alt="phone-icon" />
-                <span className="text-sm fonts-inter text-black">{t('navbar.contact')}</span>
+                <span className="text-sm fonts-inter text-black">{t("navbar.contact")}</span>
               </a>
             </Button>
           </div>
