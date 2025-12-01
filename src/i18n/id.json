@@ -134,5 +134,22 @@
         "description": "Pada 16 Maret 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 10 Tahun 2018 tentang Badan Sertifikasi Profesi Nasional (BNSP) (“GR 10/2018”) yang mulai berlaku pada hari yang sama. Peraturan ini diterbitkan untuk menggantikan..."
       }
     }
+  },
+  "section_consultation_form": {
+    "title": "Formulir Konsultasi",
+    "alert": {
+      "success": "Berhasil",
+      "error": "Kesalahan",
+      "info": "Info"
+    },
+    "form": {
+      "first_name": "Nama Depan",
+      "last_name": "Nama Belakang",
+      "email": "Email",
+      "phone": "Telepon",
+      "message": "Pesan",
+      "submit": "Kirim Pesan",
+      "submit_processing": "Mengirim..."
+    }
   }
 }

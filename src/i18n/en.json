@@ -134,5 +134,22 @@
         "description": "On 16 March 2018, the Government of Republic of Indonesia has issued a Government Regulation No. 10 of 2018 concerning National Professional Certification Authority (Badan Nasional Sertifikasi Profesi or “BNSP”) (“GR 10/2018”) which came into effect on the same day. This regulation is issued to replac..."
       }
     }
+  },
+  "section_consultation_form" : {
+    "title": "Consultation Form",
+    "alert": {
+      "success": "Success",
+      "error": "Error",
+      "info": "Info"
+    },
+    "form": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message",
+      "submit_processing": "Sending..."
+    }
   }
 }
