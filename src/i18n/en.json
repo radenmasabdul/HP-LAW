@@ -103,5 +103,36 @@
         "description": "Our team visited Puno & Puno Law Office in the Philippines to solidify our partnership and discuss future collaborative opportunities."
       }
     }
+  },
+  "section_legal" : {
+    "title": "Legal News",
+    "description": "Stay informed with the latest legal developments and regulations relevant to the industries we serve.",
+    "tab" : {
+      "regulatory": "Regulatory Updates",
+      "court": "Court Decisions",
+      "industry": "Industry Insights",
+      "policy": "Policy Departements",
+      "legal": "Legal Opinions"
+    },
+    "article": {
+      "1": {
+        "date": "September 3, 2020",
+        "title": "Government Guarantee For Corporate Business Actors Through The Appointed Guarantors In Carrying Out The National Econo...",
+        "author": "Deystia Ayesha Rae",
+        "description": "In order to support the national economic recovery program as mandated in Article 19 (2) of Government Regulation No. 23/2020 as amended by Government Regulation No. 43/2020 concerning the Execution of the National Economic Recovery program in the Event of Supporting St..."
+      },
+      "2": {
+        "date": "August 14, 2020",
+        "title": "Termination of Prosecution Based On Restorative Justice",
+        "author": "Andreas Rae Johanes",
+        "description": "On 21 July 2020, the Attorney General of Republic of Indonesia has issued a Public Prosecutor's Office Regulation No. 15 of 2020 concerning Termination of Prosecution Based On Restorative Justice (“PR 15/2020”) which came into effect a day after the issuance date, which is on 22 July 2020. The backgr..."
+      },
+      "3": {
+        "date": "April 5, 2018",
+        "title": "New Regulation on the National Professional Certification Aut...",
+        "author": "Deystia Ayesha Rae",
+        "description": "On 16 March 2018, the Government of Republic of Indonesia has issued a Government Regulation No. 10 of 2018 concerning National Professional Certification Authority (Badan Nasional Sertifikasi Profesi or “BNSP”) (“GR 10/2018”) which came into effect on the same day. This regulation is issued to replac..."
+      }
+    }
   }
 }

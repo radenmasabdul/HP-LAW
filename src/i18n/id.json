@@ -103,5 +103,36 @@
         "description": "Tim kami mengunjungi Puno & Puno Law Office di Filipina untuk memperkuat kemitraan dan membahas peluang kolaborasi di masa depan."
       }
     }
+  },
+  "section_legal": {
+    "title": "Berita Hukum",
+    "description": "Tetap update dengan perkembangan hukum dan regulasi terbaru yang relevan dengan industri yang kami layani.",
+    "tab": {
+      "regulatory": "Pembaruan Regulasi",
+      "court": "Putusan Pengadilan",
+      "industry": "Wawasan Industri",
+      "policy": "Perkembangan Kebijakan",
+      "legal": "Opini Hukum"
+    },
+    "article": {
+      "1": {
+        "date": "3 September 2020",
+        "title": "Jaminan Pemerintah untuk Pelaku Usaha Korporasi Melalui Penjamin yang Ditunjuk dalam Pelaksanaan Program Pemulihan Ekonomi Nasional...",
+        "author": "Deystia Ayesha Rae",
+        "description": "Untuk mendukung program pemulihan ekonomi nasional sebagaimana diamanatkan dalam Pasal 19 (2) Peraturan Pemerintah No. 23/2020 yang diubah dengan Peraturan Pemerintah No. 43/2020 mengenai Pelaksanaan Program Pemulihan Ekonomi Nasional dalam Hal Mendukung St..."
+      },
+      "2": {
+        "date": "14 Agustus 2020",
+        "title": "Penghentian Penuntutan Berdasarkan Keadilan Restoratif",
+        "author": "Andreas Rae Johanes",
+        "description": "Pada 21 Juli 2020, Jaksa Agung Republik Indonesia mengeluarkan Peraturan Kejaksaan No. 15 Tahun 2020 tentang Penghentian Penuntutan Berdasarkan Keadilan Restoratif (“PR 15/2020”) yang mulai berlaku sehari setelah tanggal diterbitkan, yaitu 22 Juli 2020. Latar belakangnya..."
+      },
+      "3": {
+        "date": "5 April 2018",
+        "title": "Peraturan Baru tentang Badan Sertifikasi Profesi Nasional...",
+        "author": "Deystia Ayesha Rae",
+        "description": "Pada 16 Maret 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 10 Tahun 2018 tentang Badan Sertifikasi Profesi Nasional (BNSP) (“GR 10/2018”) yang mulai berlaku pada hari yang sama. Peraturan ini diterbitkan untuk menggantikan..."
+      }
+    }
   }
 }
