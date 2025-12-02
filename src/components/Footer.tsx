@@ -18,7 +18,7 @@ export default function Footer() {
 
           <div className="flex flex-col justify-center gap-4 px-4">
             <p className="text-black text-sm font-normal fonts-inter">{t("footer.title")}</p>
-            <p className="text-black text-sm font-normal fonts-inter">{t("footer.copyright")}
+            <p className="text-black text-sm font-normal fonts-inter">{t("footer.copyright")} {""}
               <span className="font-bold">{t("footer.author")}</span>
             </p>
           </div>
