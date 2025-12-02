@@ -6,7 +6,7 @@ import homeIcon from "@/assets/image-04.jpg";
 import lobbyIcon from "@/assets/image-05.jpg";
 import checkIcon from "@/assets/icon-check.svg";
 import logoIcon from "@/assets/logo.png";
-import backgroundImage from "@/assets/image-62.png"
+import backgroundImage from "@/assets/image-56.png"
 import quoteIcon from "@/assets/icon-quote.svg";
 
 export default function AboutSection() {
