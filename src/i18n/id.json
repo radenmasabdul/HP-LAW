@@ -21,6 +21,22 @@
       "title_experience": "Pengacara Berpengalaman di Berbagai Bidang Hukum",
       "quotes_client": "Kepentingan Klien,",
       "quotes_description": "Dipercaya, Efektif, Efisien, Proaktif, Komunikatif."
+    },
+    "values": {
+      "title": "Nilai Inti Kami",
+      "client": "Kepentingan Klien",
+      "trust": "Kepercayaan",
+      "effective": "Efektif",
+      "efficient": "Efisien",
+      "proactive": "Proaktif",
+      "communicative": "Komunikatif"
+    },
+    "text": {
+      "1": "HADIPURWANTO LAW OFFICE (“HLO”)",
+      "2": " adalah firma hukum independen, layanan penuh – berbasis di jantung ibu kota Indonesia, Jakarta. HLO didirikan oleh pengacara muda, dinamis, rajin, dan cerdas yang menjunjung tinggi kualitas profesionalisme, keterampilan, dan keahlian tertinggi. Para pengacara kami memiliki pengetahuan dan koneksi di berbagai sektor yang memberikan pengalaman luar biasa dalam memberikan solusi untuk setiap masalah klien melalui riset menyeluruh, analisis mendalam, berpikir kritis, inovatif, dan kreatif.",
+      "3": "Kami juga berkomitmen pada standar tertinggi layanan klien terkait responsivitas dan kerahasiaan. Nilai inti kami mencakup kepentingan klien, kepercayaan, efektif, efisien, proaktif, komunikatif, adaptif, dan penuh semangat. Kami sepenuhnya berdedikasi dan berkomitmen membantu klien menemukan solusi yang tepat untuk masalah dan urusan hukum mereka di Indonesia.",
+      "4": "Tim pengacara kami yang lengkap memiliki keterampilan dan pengalaman untuk mengidentifikasi, mengumpulkan fakta dan bukti yang diperlukan untuk membantu klien mencapai hasil terbaik; baik di pengadilan, forum penyelesaian sengketa lainnya, maupun dalam skenario transaksi komersial/bisnis. Tim kami dapat meninjau sistem, proses, prosedur, dan praktik yang digunakan klien dalam operasi bisnis mereka untuk memastikan kepatuhan penuh terhadap undang-undang dan peraturan Indonesia yang berlaku.",
+      "5": "Tim kami mampu memberikan layanan penasihat dan dukungan di bidang tata kelola perusahaan. Kami memiliki pemahaman mendalam tentang cara berpikir regulator, legislator, dan penegak hukum Indonesia, sehingga memungkinkan kami untuk menunjukkan metode yang lebih efektif dan strategis untuk hasil berbasis kualitas terbaik dan manfaat optimal bagi klien kami."
     }
   },
   "section_practice_areas": {
@@ -161,6 +177,5 @@
     "address": "Treasury Tower, Lantai 2, Unit K, Distrik 8, SCBD, Jl. Jenderal Sudirman No. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan 12190",
     "phone": "(62 21) 5020 2665",
     "fax": "(62 21) 5020 2665"
-}
-
+  }
 }
