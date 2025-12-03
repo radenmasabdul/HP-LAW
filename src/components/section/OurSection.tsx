@@ -50,27 +50,27 @@ export default function OurSection() {
 
   return (
     <main className="bg-black-deep">
-        <section className="flex flex-col px-6 md:p-20 gap-2 md:gap-4">
+        <section className="flex flex-col px-6 md:p-20 md:gap-4">
             <div className="grid grid-cols-1 md:grid-cols-2 py-2 md:py-4">
                 <div>
-                    <p className="text-4xl text-gold-medium fonts-inter font-semibold">{t("section_our_people.title")}</p>
+                    <p className="text-2xl md:text-4xl text-gold-medium fonts-inter font-semibold">{t("section_our_people.title")}</p>
                 </div>
-                <div className="py-2">
+                <div className="py-6 md:py-2">
                     <p className="text-white text-base text-justify fonts-inter">{t("section_our_people.description")}</p>
                 </div>
             </div>
 
-            <div className="py-4">
+            <div className="md:py-4">
                 <Carousel className="relative">
                     <CarouselContent>
                         {datas.map((data) => (
                             <CarouselItem key={data.id} className="md:basis-1/4">
-                                <Card className="bg-black-medium border-black-medium rounded-none py-0!">
+                                <Card className="bg-black-medium border-black-medium rounded-none py-0! h-full flex flex-col">
                                     <CardHeader className="p-0!">
                                         <img src={data.src} alt={data.alt} className="w-full h-full object-cover rounded-none"/>
                                     </CardHeader>
                                     
-                                    <div className="pb-2 px-6">
+                                    <div className="pb-2 px-6 flex-1 flex flex-col">
                                         <CardTitle className="">
                                             <Link to={`/people/${data.id}`}
                                                 className="text-lg text-gold-medium font-bold fonts-inter truncate hover:underline"
@@ -97,21 +97,21 @@ export default function OurSection() {
         </section>
 
         <section className="flex flex-col px-6 pb-10 md:px-20 md:pb-20">
-            <div className="grid grid-cols-1 md:grid-cols-2 py-1">
-                <p className="text-4xl text-gold-medium fonts-inter font-semibold">{t("section_our_people.benefit")}</p>
+            <div className="grid grid-cols-1 md:grid-cols-2 py-4 md:py-1">
+                <p className="text-2xl md:text-4xl text-gold-medium fonts-inter font-semibold">{t("section_our_people.benefit")}</p>
                 
-                <div className="py-2">
+                <div className="py-6 md:py-2">
                     <p className="text-white text-base text-justify fonts-inter">{t("section_our_people.title_benefit")}</p>
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 pt-2 md:pt-10">
+            <div className="grid grid-cols-1 md:grid-cols-2 md:pt-10">
                 <div>
                     <img src={image07} alt="image07" />
                 </div>
 
                 <div className="flex flex-col md:flex-row justify-center items-center">
-                    <div className="shrink-0 py-4 md:mb-32 md:px-8">
+                    <div className="shrink-0 py-6 md:py-0 md:mb-32 md:px-8">
                         <img src={image10} alt="image10"/>
                     </div>
 
@@ -128,7 +128,7 @@ export default function OurSection() {
                 </div>
                 
                 <div className="flex flex-col md:flex-row justify-center items-center md:order-1">
-                    <div className="shrink-0 py-4 md:mb-28 md:px-8">
+                    <div className="shrink-0 py-6 md:py-0 md:mb-28 md:px-8">
                         <img src={image11} alt="image11"/>
                     </div>
                     
@@ -145,7 +145,7 @@ export default function OurSection() {
                 </div>
 
                 <div className="flex flex-col md:flex-row justify-center items-center">
-                    <div className="shrink-0 py-4 md:mb-[150px] md:px-8">
+                    <div className="shrink-0 py-6 md:py-0 md:mb-[150px] md:px-8">
                         <img src={image12} alt="image12"/>
                     </div>
 

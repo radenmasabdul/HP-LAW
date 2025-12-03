@@ -87,8 +87,8 @@ export default function ConsultationForm() {
             </div>
             
             <div className="md:w-1/2 py-8 px-6 md:py-16 md:px-12 bg-black-medium">
-                <CardHeader className="p-0 mb-8">
-                    <CardTitle className="text-4xl text-gold-medium font-semibold fonts-inter">{t("section_consultation_form.title")}</CardTitle>
+                <CardHeader className="p-0 mb-4 md:mb-8">
+                    <CardTitle className="text-2xl md:text-4xl text-gold-medium font-semibold fonts-inter">{t("section_consultation_form.title")}</CardTitle>
                 </CardHeader>
                 
                 {alert && (
@@ -130,7 +130,7 @@ export default function ConsultationForm() {
                             
                                 <div className="flex flex-col gap-2 flex-1">
                                     <Label htmlFor="phone" className={labelClass}>{t("section_consultation_form.form.phone")}</Label>
-                                    <Input id="phone" name="phone" type="tel" autoComplete="phone" placeholder="Phone" required className={inputClass}/>
+                                    <Input id="phone" name="phone" type="tel" autoComplete="phone" placeholder="Phone" required className={inputClass} maxLength={18}/>
                                 </div>
                             </div>
                         

@@ -95,7 +95,7 @@ export default function About() {
 
             <div className="pt-5 md:pt-10">
               <div className="flex justify-center">
-                <p className="text-4xl text-gold-medium font-semibold fonts-inter text-center">
+                <p className="text-2xl md:text-4xl text-gold-medium font-semibold fonts-inter text-center">
                   {t("section_about_us.values.title")}
                 </p>
               </div>
@@ -103,7 +103,7 @@ export default function About() {
               <div className="grid grid-cols-2 md:grid-cols-6 gap-6 py-10">
                 {coreValues.map((v, i) => (
                   <div key={i} className="flex flex-col items-center text-center space-y-4">
-                    <img src={v.img} alt={v.label} />
+                    <img src={v.img} alt={v.label}/>
                     <p className="text-base md:text-2xl text-white fonts-inter font-normal">
                       {t(v.label)}
                     </p>

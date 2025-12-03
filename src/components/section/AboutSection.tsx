@@ -16,7 +16,7 @@ export default function AboutSection() {
     <main className="bg-black-deep">
       <section className="flex flex-col md:flex-row px-6 py-4 md:p-20">
         <div className="md:w-3/4 mb-8 md:mb-0">
-          <p className="text-4xl text-gold-medium fonts-inter font-semibold">
+          <p className="text-2xl md:text-4xl text-gold-medium fonts-inter font-semibold">
             {t("section_about_us.title")}
           </p>
         </div>
@@ -40,7 +40,7 @@ export default function AboutSection() {
           </div>
 
           <div>
-            <p className="text-white text-base text-justify my-4 md:my-10 fonts-inter">
+            <p className="text-white text-base text-justify my-6 md:my-10 fonts-inter">
               {t("section_about_us.description")}
             </p>
 
@@ -92,7 +92,7 @@ export default function AboutSection() {
         </div>
       </section>
 
-      <section className="p-6 md:px-20">
+      <section className="px-6 md:px-20">
         <div className="rounded-full bg-cover bg-black-medium hidden md:block" style={{ backgroundImage: `url(${backgroundImage})` }}>
           <div className="px-20 py-10">
             <div className="flex">
@@ -111,7 +111,7 @@ export default function AboutSection() {
           </div>
         </div>
 
-        <div className="md:hidden flex flex-col items-start gap-4 py-4">
+        <div className="md:hidden flex flex-col items-start gap-4 pb-4 md:py-4">
           <img src={quoteIcon} alt="icon-quote" className="w-10 h-10" />
             <p className="text-white text-2xl font-light fonts-inter leading-snug"> {t("section_about_us.detail.quotes_client")}
               <span className="font-bold">

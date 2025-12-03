@@ -85,8 +85,8 @@ export default function Practice() {
                 <div className="absolute inset-0 bg-linear-to-r from-black/70 via-black/30 to-transparent"></div>
                 
                 <div className="absolute inset-0 flex flex-col justify-center items-start px-20">
-                    <p className="text-6xl text-gold-medium font-extrabold fonts-inter mb-4">{t("section_practice_areas.title")}</p>
-                    <p className="text-lg text-grey-medium font-normal fonts-inter max-w-xl">{t("section_practice_areas.description2")}</p>
+                    <p className="text-4xl md:text-6xl text-gold-medium font-extrabold fonts-inter mb-4">{t("section_practice_areas.title")}</p>
+                    <p className="text-base md:text-lg text-grey-medium font-normal fonts-inter max-w-xl">{t("section_practice_areas.description2")}</p>
                 </div>
             </section>
 
@@ -96,23 +96,23 @@ export default function Practice() {
                         {data.map((item) => (
                             <CarouselItem key={item.id} className="md:basis-1/4 flex">
                                 <Card className="bg-black-medium border-black-medium rounded-none py-0 flex flex-col h-full">
-                                    <div className="p-6 flex flex-col flex-1">
+                                    <div className="flex flex-col flex-1 p-3 md:p-6">
                                         <CardHeader className="p-0!">
-                                            <div className="bg-gold-medium border-gold-medium rounded-none w-20 py-2">
-                                                <p className="text-4xl text-black-medium font-bold fonts-inter text-center">
+                                            <div className="bg-gold-medium border-gold-medium rounded-none w-14 md:w-20 py-2">
+                                                <p className="text-2xl md:text-4xl text-black-medium font-bold fonts-inter text-center">
                                                     {t(item.no)}
                                                 </p>
                                             </div>
                                         </CardHeader>
 
-                                        <CardTitle className="py-6">
-                                            <p className="text-lg text-white font-bold fonts-inter">
+                                        <CardTitle className="py-2 md:py-6">
+                                            <p className="text-base md:text-lg text-white font-bold fonts-inter">
                                                 {t(item.title)}
                                             </p>
                                         </CardTitle>
 
                                         <CardDescription className="flex-1">
-                                            <p className="text-base text-grey-medium font-normal fonts-inter">
+                                            <p className="text-sm md:text-base text-grey-medium font-normal fonts-inter">
                                             {t(item.description)}
                                             </p>
                                         </CardDescription>

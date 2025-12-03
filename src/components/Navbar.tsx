@@ -35,8 +35,8 @@ export default function Navbar() {
     <header className="bg-black-deep">
       <div className="w-full px-4 py-4 md:px-10 md:py-8 flex items-center justify-between">
         <div className="flex items-center gap-1">
-          <img src={unionIcon} alt="union-icon" className="h-6 w-auto md:h-full"/>
-          <img src={unionLogoIcon} alt="union-logo-icon" className="h-4 w-auto md:h-full"/>
+          <img src={unionIcon} alt="union-icon" className="h-full w-full"/>
+          <img src={unionLogoIcon} alt="union-logo-icon" className="h-6 w-full md:h-full md:w-full"/>
         </div>
 
         <div className="hidden md:flex items-center gap-4 text-sm text-white fonts-inter">

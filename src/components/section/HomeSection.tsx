@@ -15,15 +15,15 @@ export default function HomeSection() {
     }, []);
 
   return (
-    <div className="relative w-full">
+    <div className="relative w-full h-[600px]">
       <img
         src={imageHero}
         alt="Image Hero"
-        className="w-full h-auto object-cover"
+        className="w-full h-full object-cover"
       />
 
-      <div className="absolute inset-0 flex flex-col items-center text-center justify-start md:justify-normal md:py-9">
-        <h1 className="text-base md:text-6xl font-extrabold fonts-inter flex items-center gap-1 md:gap-2">
+      <div className="absolute inset-0 flex flex-col items-center text-center justify-center md:justify-normal md:py-9">
+        <h1 className="text-xl md:text-6xl font-extrabold fonts-inter flex items-center gap-1 md:gap-2">
           <div className="overflow-hidden text-gold-medium">
             <AnimatePresence mode="wait">
               <motion.span
@@ -39,12 +39,12 @@ export default function HomeSection() {
             </AnimatePresence>
           </div>
           
-          <span className="text-white text-base md:text-6xl font-extrabold fonts-inter">
+          <span className="text-white text-xl md:text-6xl font-extrabold fonts-inter">
             LEGAL SOLUTION FOR
           </span>
         </h1>
 
-        <p className="text-white text-base md:text-4xl font-semibold fonts-inter">
+        <p className="text-white text-xl md:text-4xl font-semibold fonts-inter">
           BUSINESSES & INDIVIDUALS
         </p>
       </div>
