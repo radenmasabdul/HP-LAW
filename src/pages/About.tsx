@@ -43,8 +43,8 @@ export default function About() {
     <Layout>
       <main className="bg-black-deep">
         <section className="flex flex-col">
-          <div className="relative w-full">
-            <img src={image24} alt="image-24" className="w-full h-auto object-cover" />
+          <div className="relative w-full h-[600px] md:h-full">
+            <img src={image24} alt="image-24" className="w-full h-full object-cover filter grayscale" />
           </div>
 
           <div className="px-6 py-4 md:px-20 md:py-10">
