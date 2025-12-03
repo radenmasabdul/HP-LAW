@@ -42,6 +42,7 @@
   "section_practice_areas" : {
     "title": "Practice Areas",
     "description": "At HADIPURWANTO LAW OFFICE, we offer a wide range of legal services, specializing in both contentious and non-contentious matters. Our experienced attorneys are equipped to provide tailored legal solutions to meet the needs of our diverse clientele.",
+    "description2": "At HADIPURWANTO LAW OFFICE, we offer a comprehensive range of legal services tailored to meet the unique needs of our clients. Our experienced attorneys specialize in various practice areas, providing expert legal solutions across multiple industries.",
     "see_more": "See More",
     "content": {
       "commercial": {
@@ -52,17 +53,85 @@
         "title": "Criminal Litigation",
         "description": "Defending clients against criminal charges with thorough case analysis and committed legal defense."
       },
-      "intellectual": {
-        "title": "Intellectual Property Rights",
-        "description": "Protecting your creations and inventions through strategic IP protection and enforcement."
+      "state": {
+        "title": "State Administrative Litigation",
+        "description": "We handle disputes involving government authorities, ensuring compliance with state regulations."
+      },
+      "civil": {
+        "title": "Civil Litigation",
+        "description": "Our firm offers expert representation in civil disputes, protecting your rights in court."
+      },
+      "government": {
+        "title": "Government Relation",
+        "description": "We assist clients in navigating governmental regulations and advocating for their interests with authorities."
+      },
+      "commercial_contract": {
+        "title": "Commercial Contract",
+        "description": "We draft, negotiate, and enforce commercial contracts to safeguard business interests and ensure legal compliance."
+      },
+      "international": {
+        "title": "International Business Transaction",
+        "description": "We provide legal counsel on cross-border transactions, ensuring compliance with international laws and regulations."
+      },
+      "foreign": {
+        "title": "Foreign & Domestic Investments",
+        "description": "Our firm advises on investment opportunities, offering strategic guidance for both local and international investors."
+      },
+      "media": {
+        "title": "Media, IT & Telecommunication",
+        "description": "We offer legal support in the media, IT, and telecommunications sectors, protecting intellectual property and ensuring regulatory compliance."
+      },
+      "unfair": {
+        "title": "Unfair Competition & Antimonopoly",
+        "description": "We provide counsel on antitrust matters, helping businesses avoid unfair competition and comply with antimonopoly laws."
       },
       "mergers": {
         "title": "Mergers & Acquisitions",
         "description": "Providing expert legal advice in corporate transactions, from negotiation to finalization."
       },
+      "intellectual": {
+        "title": "Intellectual Property Rights",
+        "description": "Protecting your creations and inventions through strategic IP protection and enforcement."
+      },
+      "aviation": {
+        "title": "Aviation",
+        "description": "We offer legal solutions for the aviation industry, including regulatory compliance, aircraft leasing, and dispute resolution."
+      },
       "banking": {
         "title": "Banking and Finance Law",
         "description": "Offering legal solutions for regulatory compliance, investment, and banking transactions."
+      },
+      "construction": {
+        "title": "Construction & Infrastructure",
+        "description": "We assist clients in navigating legal challenges related to construction projects and infrastructure development."
+      },
+      "consumer": {
+        "title": "Consumer Protection",
+        "description": "We ensure that consumers are protected from unfair practices and defective products through robust legal advocacy."
+      },
+      "private": {
+        "title": "Private & Family",
+        "description": "We offer legal support in family matters, including divorce, inheritance, and child custody disputes."
+      },
+      "insurance": {
+        "title": "Insurance",
+        "description": "We provide guidance on insurance policies and dispute resolution between insurers and policyholders."
+      },
+      "land": {
+        "title": "Land",
+        "description": "Our firm offers legal services in land acquisition, property rights, and real estate transactions."
+      },
+      "employment": {
+        "title": "Employment",
+        "description": "We represent both employers and employees in labor disputes, ensuring fair treatment and compliance with labor laws."
+      },
+      "mining": {
+        "title": "Mining",
+        "description": "We provide legal advice in the mining sector, ensuring compliance with environmental laws and handling regulatory matters."
+      },
+      "plantation": {
+        "title": "Plantation",
+        "description": "We offer legal expertise in the plantation industry, assisting with land use, environmental issues, and regulatory compliance."
       }
     },
     "our_client": "Our Clients",

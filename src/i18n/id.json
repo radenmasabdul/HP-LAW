@@ -42,6 +42,7 @@
   "section_practice_areas": {
     "title": "Area Praktik",
     "description": "Di HADIPURWANTO LAW OFFICE, kami menyediakan berbagai layanan hukum, baik litigasi maupun non-litigasi. Pengacara berpengalaman kami siap memberikan solusi hukum yang disesuaikan untuk memenuhi kebutuhan klien kami yang beragam.",
+    "description2": "Di HADIPURWANTO LAW OFFICE, kami menawarkan berbagai layanan hukum yang komprehensif dan disesuaikan dengan kebutuhan unik setiap klien. Pengacara berpengalaman kami mengkhususkan diri dalam berbagai area praktik, memberikan solusi hukum profesional di berbagai industri.",
     "see_more": "Lihat Selengkapnya",
     "content": {
       "commercial": {
@@ -52,21 +53,89 @@
         "title": "Litigasi Pidana",
         "description": "Membela klien terhadap tuduhan pidana dengan analisis kasus yang mendalam dan pembelaan hukum yang kuat."
       },
-      "intellectual": {
-        "title": "Hak Kekayaan Intelektual",
-        "description": "Melindungi karya dan invensi Anda melalui strategi perlindungan dan penegakan HKI yang tepat."
+      "state": {
+        "title": "Litigasi Administrasi Negara",
+        "description": "Kami menangani sengketa yang melibatkan otoritas pemerintah, memastikan kepatuhan terhadap peraturan negara."
+      },
+      "civil": {
+        "title": "Litigasi Perdata",
+        "description": "Firma kami menawarkan representasi ahli dalam sengketa perdata, melindungi hak Anda di pengadilan."
+      },
+      "government": {
+        "title": "Hubungan Pemerintah",
+        "description": "Kami membantu klien menavigasi regulasi pemerintah dan memperjuangkan kepentingan mereka di hadapan otoritas terkait."
+      },
+      "commercial_contract": {
+        "title": "Kontrak Komersial",
+        "description": "Kami menyusun, menegosiasi, dan menegakkan kontrak komersial untuk melindungi kepentingan bisnis dan memastikan kepatuhan hukum."
+      },
+      "international": {
+        "title": "Transaksi Bisnis Internasional",
+        "description": "Kami memberikan nasihat hukum untuk transaksi lintas batas, memastikan kepatuhan terhadap hukum dan regulasi internasional."
+      },
+      "foreign": {
+        "title": "Investasi Dalam & Luar Negeri",
+        "description": "Firma kami memberikan panduan strategis untuk peluang investasi, baik untuk investor lokal maupun internasional."
+      },
+      "media": {
+        "title": "Media, TI & Telekomunikasi",
+        "description": "Kami menyediakan dukungan hukum di sektor media, TI, dan telekomunikasi, melindungi kekayaan intelektual dan memastikan kepatuhan regulasi."
+      },
+      "unfair": {
+        "title": "Persaingan Tidak Sehat & Antimonopoli",
+        "description": "Kami memberikan nasihat hukum terkait antitrust, membantu bisnis menghindari persaingan tidak sehat dan mematuhi hukum antimonopoli."
       },
       "mergers": {
         "title": "Merger & Akuisisi",
         "description": "Memberikan nasihat hukum terkait transaksi korporasi, mulai dari negosiasi hingga finalisasi."
       },
+      "intellectual": {
+        "title": "Hak Kekayaan Intelektual",
+        "description": "Melindungi karya dan invensi Anda melalui strategi perlindungan dan penegakan HKI yang tepat."
+      },
+      "aviation": {
+        "title": "Aviansi",
+        "description": "Kami menawarkan solusi hukum untuk industri penerbangan, termasuk kepatuhan regulasi, leasing pesawat, dan penyelesaian sengketa."
+      },
       "banking": {
         "title": "Hukum Perbankan dan Keuangan",
         "description": "Menyediakan solusi hukum terkait kepatuhan regulasi, investasi, dan transaksi perbankan."
+      },
+      "construction": {
+        "title": "Konstruksi & Infrastruktur",
+        "description": "Kami membantu klien menavigasi tantangan hukum terkait proyek konstruksi dan pembangunan infrastruktur."
+      },
+      "consumer": {
+        "title": "Perlindungan Konsumen",
+        "description": "Kami memastikan konsumen terlindungi dari praktik tidak adil dan produk cacat melalui advokasi hukum yang kuat."
+      },
+      "private": {
+        "title": "Pribadi & Keluarga",
+        "description": "Kami memberikan dukungan hukum dalam masalah keluarga, termasuk perceraian, warisan, dan hak asuh anak."
+      },
+      "insurance": {
+        "title": "Asuransi",
+        "description": "Kami memberikan panduan terkait polis asuransi dan penyelesaian sengketa antara penanggung dan tertanggung."
+      },
+      "land": {
+        "title": "Pertanahan",
+        "description": "Firma kami menawarkan layanan hukum terkait akuisisi tanah, hak properti, dan transaksi real estate."
+      },
+      "employment": {
+        "title": "Ketenagakerjaan",
+        "description": "Kami mewakili baik pemberi kerja maupun karyawan dalam sengketa ketenagakerjaan, memastikan perlakuan adil dan kepatuhan terhadap undang-undang ketenagakerjaan."
+      },
+      "mining": {
+        "title": "Pertambangan",
+        "description": "Kami memberikan nasihat hukum di sektor pertambangan, memastikan kepatuhan terhadap undang-undang lingkungan dan regulasi terkait."
+      },
+      "plantation": {
+        "title": "Perkebunan",
+        "description": "Kami menawarkan keahlian hukum di industri perkebunan, membantu dalam penggunaan lahan, isu lingkungan, dan kepatuhan regulasi."
       }
     },
-    "our_client": "Klien Kami",
-    "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
+  "our_client": "Klien Kami",
+  "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
   },
   "section_our_people": {
     "title": "Tim Kami",
