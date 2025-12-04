@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 import { ChevronDown, Menu, X } from "lucide-react";
 import { Button } from "@/common/componentShadcn/ui/button";
 import { Input } from "@/common/componentShadcn/ui/input";
@@ -41,15 +41,15 @@ export default function Navbar() {
 
         <div className="hidden md:flex items-center gap-4 text-sm text-white fonts-inter">
           {menuItems.map((item) => (
-            <a
+            <Link
               key={item.path}
-              href={item.path}
+              to={item.path}
               className={`px-3 py-1 rounded transition-colors ${
                 location.pathname === item.path ? "text-gold-medium" : ""
-              }`}
-            >
-              {t(`navbar.${item.key}`)}
-            </a>
+                }`}
+              >
+                {t(`navbar.${item.key}`)}
+              </Link>
           ))}
         </div>
 
@@ -107,16 +107,16 @@ export default function Navbar() {
         <div className="md:hidden bg-black-deep px-4 pb-4 animate-in slide-in-from-top-2 duration-200">
           <div className="flex flex-col gap-3 text-white fonts-inter">
             {menuItems.map((item) => (
-              <a
+              <Link
                 key={item.path}
-                href={item.path}
+                to={item.path}
+                onClick={() => setIsMobileMenuOpen(false)}
                 className={`px-3 py-2 rounded transition-colors ${
                   location.pathname === item.path ? "text-gold-medium" : ""
                 }`}
-                onClick={() => setIsMobileMenuOpen(false)}
               >
                 {t(`navbar.${item.key}`)}
-              </a>
+              </Link>
             ))}
             
             <Button asChild className="bg-gold-medium hover:bg-gold-medium text-white rounded-none mt-2">

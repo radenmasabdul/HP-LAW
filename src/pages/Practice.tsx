@@ -13,8 +13,6 @@ import {
     CarouselNext,
     CarouselPrevious,
 } from "@/common/componentShadcn/ui/carousel"
-
-import Layout from "@/components/layout/Layout"
 import image32 from "@/assets/image-32.jpg"
 import image33 from "@/assets/image-33.jpg"
 import image34 from "@/assets/image-34.jpg"
@@ -77,62 +75,58 @@ export default function Practice() {
     const { t } = useTranslation();
 
   return (
-    <Layout>
-        <main className="bg-black-deep">
-            <section className="relative w-full h-[600px]">
-                <img src={image32} alt="practice area" className="w-full h-full object-cover"/>
-                
+    <main className="bg-black-deep">
+        <section className="relative w-full h-[600px]">
+            <img src={image32} alt="practice area" className="w-full h-full object-cover"/>
                 <div className="absolute inset-0 bg-linear-to-r from-black/70 via-black/30 to-transparent"></div>
-                
                 <div className="absolute inset-0 flex flex-col justify-center items-start px-20">
                     <p className="text-4xl md:text-6xl text-gold-medium font-extrabold fonts-inter mb-4">{t("section_practice_areas.title")}</p>
                     <p className="text-base md:text-lg text-grey-medium font-normal fonts-inter max-w-xl">{t("section_practice_areas.description2")}</p>
                 </div>
-            </section>
-
-            <section className="py-4 px-6 md:px-20 md:py-10">
-                <Carousel className="relative">
-                    <CarouselContent>
-                        {data.map((item) => (
-                            <CarouselItem key={item.id} className="md:basis-1/4 flex">
-                                <Card className="bg-black-medium border-black-medium rounded-none py-0 flex flex-col h-full">
-                                    <div className="flex flex-col flex-1 p-3 md:p-6">
-                                        <CardHeader className="p-0!">
-                                            <div className="bg-gold-medium border-gold-medium rounded-none w-14 md:w-20 py-2">
-                                                <p className="text-2xl md:text-4xl text-black-medium font-bold fonts-inter text-center">
-                                                    {t(item.no)}
-                                                </p>
-                                            </div>
-                                        </CardHeader>
-
-                                        <CardTitle className="py-2 md:py-6">
-                                            <p className="text-base md:text-lg text-white font-bold fonts-inter">
-                                                {t(item.title)}
+        </section>
+        
+        <section className="py-4 px-6 md:px-20 md:py-10">
+            <Carousel className="relative">
+                <CarouselContent>
+                    {data.map((item) => (
+                        <CarouselItem key={item.id} className="md:basis-1/4 flex">
+                            <Card className="bg-black-medium border-black-medium rounded-none py-0 flex flex-col h-full">
+                                <div className="flex flex-col flex-1 p-3 md:p-6">
+                                    <CardHeader className="p-0!">
+                                        <div className="bg-gold-medium border-gold-medium rounded-none w-14 md:w-20 py-2">
+                                            <p className="text-2xl md:text-4xl text-black-medium font-bold fonts-inter text-center">
+                                                {t(item.no)}
                                             </p>
-                                        </CardTitle>
+                                        </div>
+                                    </CardHeader>
 
-                                        <CardDescription className="flex-1">
-                                            <p className="text-sm md:text-base text-grey-medium font-normal fonts-inter">
+                                    <CardTitle className="py-2 md:py-6">
+                                        <p className="text-base md:text-lg text-white font-bold fonts-inter">
+                                            {t(item.title)}
+                                        </p>
+                                    </CardTitle>
+
+                                    <CardDescription className="flex-1">
+                                        <p className="text-sm md:text-base text-grey-medium font-normal fonts-inter">
                                             {t(item.description)}
-                                            </p>
-                                        </CardDescription>
-                                    </div>
+                                        </p>
+                                    </CardDescription>
+                                </div>
+                                
+                                <CardFooter className="p-0! flex-1">
+                                    <img src={item.src} alt={item.alt} className="w-full h-full object-cover rounded-none"/>
+                                </CardFooter>
+                            </Card>
+                        </CarouselItem>
+                    ))}
+                </CarouselContent>
 
-                                    <CardFooter className="p-0! flex-1">
-                                        <img src={item.src} alt={item.alt} className="w-full h-full object-cover rounded-none"/>
-                                    </CardFooter>
-                                </Card>
-                            </CarouselItem>
-                        ))}
-                    </CarouselContent>
-
-                    <div className="flex justify-center gap-4 mt-10">
-                        <CarouselPrevious className="static translate-y-0"/>
-                        <CarouselNext className="static translate-y-0" />
-                    </div>
-                </Carousel>
-            </section>
-        </main>
-    </Layout>
+                <div className="flex justify-center gap-4 mt-10">
+                    <CarouselPrevious className="static translate-y-0"/>
+                    <CarouselNext className="static translate-y-0" />
+                </div>
+            </Carousel>
+        </section>
+    </main>
   )
 }
