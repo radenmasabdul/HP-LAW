@@ -7,6 +7,11 @@
     "news": "Berita Hukum",
     "contact": "Hubungi Kami"
   },
+  "hero": {
+    "words": ["TERPERCAYA", "DAPAT DIANDALKAN", "BEREPUTASI"],
+    "legal": "SOLUSI HUKUM UNTUK",
+    "businesses": "BISNIS & INDIVIDU"
+  },
   "section_about_us": {
     "title": "Tentang Kami",
     "practice_area": "Area Praktik",

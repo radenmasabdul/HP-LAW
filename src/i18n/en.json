@@ -7,6 +7,11 @@
     "news": "Legal News",
     "contact": "Contact Us"
   },
+  "hero": {
+    "words": ["TRUSTED", "RELIABLE", "REPUTABLE"],
+    "legal": "LEGAL SOLUTION FOR",
+    "businesses": "BUSINESSES & INDIVIDUALS"
+  },
   "section_about_us" : {
     "title": "About Us",
     "practice_area": "Practice Areas",
