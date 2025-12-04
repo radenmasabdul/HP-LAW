@@ -10,15 +10,15 @@ export default function Footer() {
 
   return (
     <footer className="bg-black-deep pt-2 md:pt-20">
-      <section className="bg-gold-medium flex flex-col px-6 py-4 md:p-20 gap-2 md:gap-4">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <section className="bg-gold-medium flex flex-col px-6 py-8 md:p-20 gap-2 md:gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
           <div className="flex justify-center items-center py-4 md:py-0 md:border-r md:border-gold-deep">
             <img src={logoFooter} alt="logo-footer"/>
           </div>
 
           <div className="flex flex-col justify-center gap-4 px-4">
             <p className="text-black text-sm font-normal fonts-inter">{t("footer.title")}</p>
-            <p className="text-black text-sm font-normal fonts-inter">{t("footer.copyright")}
+            <p className="text-black text-sm font-normal fonts-inter">{t("footer.copyright")} {""}
               <span className="font-bold">{t("footer.author")}</span>
             </p>
           </div>

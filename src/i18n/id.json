@@ -7,6 +7,11 @@
     "news": "Berita Hukum",
     "contact": "Hubungi Kami"
   },
+  "hero": {
+    "words": ["TERPERCAYA", "DAPAT DIANDALKAN", "BEREPUTASI"],
+    "legal": "SOLUSI HUKUM UNTUK",
+    "businesses": "BISNIS & INDIVIDU"
+  },
   "section_about_us": {
     "title": "Tentang Kami",
     "practice_area": "Area Praktik",
@@ -21,11 +26,28 @@
       "title_experience": "Pengacara Berpengalaman di Berbagai Bidang Hukum",
       "quotes_client": "Kepentingan Klien,",
       "quotes_description": "Dipercaya, Efektif, Efisien, Proaktif, Komunikatif."
+    },
+    "values": {
+      "title": "Nilai Inti Kami",
+      "client": "Kepentingan Klien",
+      "trust": "Kepercayaan",
+      "effective": "Efektif",
+      "efficient": "Efisien",
+      "proactive": "Proaktif",
+      "communicative": "Komunikatif"
+    },
+    "text": {
+      "1": "HADIPURWANTO LAW OFFICE (“HLO”)",
+      "2": " adalah firma hukum independen, layanan penuh – berbasis di jantung ibu kota Indonesia, Jakarta. HLO didirikan oleh pengacara muda, dinamis, rajin, dan cerdas yang menjunjung tinggi kualitas profesionalisme, keterampilan, dan keahlian tertinggi. Para pengacara kami memiliki pengetahuan dan koneksi di berbagai sektor yang memberikan pengalaman luar biasa dalam memberikan solusi untuk setiap masalah klien melalui riset menyeluruh, analisis mendalam, berpikir kritis, inovatif, dan kreatif.",
+      "3": "Kami juga berkomitmen pada standar tertinggi layanan klien terkait responsivitas dan kerahasiaan. Nilai inti kami mencakup kepentingan klien, kepercayaan, efektif, efisien, proaktif, komunikatif, adaptif, dan penuh semangat. Kami sepenuhnya berdedikasi dan berkomitmen membantu klien menemukan solusi yang tepat untuk masalah dan urusan hukum mereka di Indonesia.",
+      "4": "Tim pengacara kami yang lengkap memiliki keterampilan dan pengalaman untuk mengidentifikasi, mengumpulkan fakta dan bukti yang diperlukan untuk membantu klien mencapai hasil terbaik; baik di pengadilan, forum penyelesaian sengketa lainnya, maupun dalam skenario transaksi komersial/bisnis. Tim kami dapat meninjau sistem, proses, prosedur, dan praktik yang digunakan klien dalam operasi bisnis mereka untuk memastikan kepatuhan penuh terhadap undang-undang dan peraturan Indonesia yang berlaku.",
+      "5": "Tim kami mampu memberikan layanan penasihat dan dukungan di bidang tata kelola perusahaan. Kami memiliki pemahaman mendalam tentang cara berpikir regulator, legislator, dan penegak hukum Indonesia, sehingga memungkinkan kami untuk menunjukkan metode yang lebih efektif dan strategis untuk hasil berbasis kualitas terbaik dan manfaat optimal bagi klien kami."
     }
   },
   "section_practice_areas": {
     "title": "Area Praktik",
     "description": "Di HADIPURWANTO LAW OFFICE, kami menyediakan berbagai layanan hukum, baik litigasi maupun non-litigasi. Pengacara berpengalaman kami siap memberikan solusi hukum yang disesuaikan untuk memenuhi kebutuhan klien kami yang beragam.",
+    "description2": "Di HADIPURWANTO LAW OFFICE, kami menawarkan berbagai layanan hukum yang komprehensif dan disesuaikan dengan kebutuhan unik setiap klien. Pengacara berpengalaman kami mengkhususkan diri dalam berbagai area praktik, memberikan solusi hukum profesional di berbagai industri.",
     "see_more": "Lihat Selengkapnya",
     "content": {
       "commercial": {
@@ -36,21 +58,89 @@
         "title": "Litigasi Pidana",
         "description": "Membela klien terhadap tuduhan pidana dengan analisis kasus yang mendalam dan pembelaan hukum yang kuat."
       },
-      "intellectual": {
-        "title": "Hak Kekayaan Intelektual",
-        "description": "Melindungi karya dan invensi Anda melalui strategi perlindungan dan penegakan HKI yang tepat."
+      "state": {
+        "title": "Litigasi Administrasi Negara",
+        "description": "Kami menangani sengketa yang melibatkan otoritas pemerintah, memastikan kepatuhan terhadap peraturan negara."
+      },
+      "civil": {
+        "title": "Litigasi Perdata",
+        "description": "Firma kami menawarkan representasi ahli dalam sengketa perdata, melindungi hak Anda di pengadilan."
+      },
+      "government": {
+        "title": "Hubungan Pemerintah",
+        "description": "Kami membantu klien menavigasi regulasi pemerintah dan memperjuangkan kepentingan mereka di hadapan otoritas terkait."
+      },
+      "commercial_contract": {
+        "title": "Kontrak Komersial",
+        "description": "Kami menyusun, menegosiasi, dan menegakkan kontrak komersial untuk melindungi kepentingan bisnis dan memastikan kepatuhan hukum."
+      },
+      "international": {
+        "title": "Transaksi Bisnis Internasional",
+        "description": "Kami memberikan nasihat hukum untuk transaksi lintas batas, memastikan kepatuhan terhadap hukum dan regulasi internasional."
+      },
+      "foreign": {
+        "title": "Investasi Dalam & Luar Negeri",
+        "description": "Firma kami memberikan panduan strategis untuk peluang investasi, baik untuk investor lokal maupun internasional."
+      },
+      "media": {
+        "title": "Media, TI & Telekomunikasi",
+        "description": "Kami menyediakan dukungan hukum di sektor media, TI, dan telekomunikasi, melindungi kekayaan intelektual dan memastikan kepatuhan regulasi."
+      },
+      "unfair": {
+        "title": "Persaingan Tidak Sehat & Antimonopoli",
+        "description": "Kami memberikan nasihat hukum terkait antitrust, membantu bisnis menghindari persaingan tidak sehat dan mematuhi hukum antimonopoli."
       },
       "mergers": {
         "title": "Merger & Akuisisi",
         "description": "Memberikan nasihat hukum terkait transaksi korporasi, mulai dari negosiasi hingga finalisasi."
       },
+      "intellectual": {
+        "title": "Hak Kekayaan Intelektual",
+        "description": "Melindungi karya dan invensi Anda melalui strategi perlindungan dan penegakan HKI yang tepat."
+      },
+      "aviation": {
+        "title": "Aviansi",
+        "description": "Kami menawarkan solusi hukum untuk industri penerbangan, termasuk kepatuhan regulasi, leasing pesawat, dan penyelesaian sengketa."
+      },
       "banking": {
         "title": "Hukum Perbankan dan Keuangan",
         "description": "Menyediakan solusi hukum terkait kepatuhan regulasi, investasi, dan transaksi perbankan."
+      },
+      "construction": {
+        "title": "Konstruksi & Infrastruktur",
+        "description": "Kami membantu klien menavigasi tantangan hukum terkait proyek konstruksi dan pembangunan infrastruktur."
+      },
+      "consumer": {
+        "title": "Perlindungan Konsumen",
+        "description": "Kami memastikan konsumen terlindungi dari praktik tidak adil dan produk cacat melalui advokasi hukum yang kuat."
+      },
+      "private": {
+        "title": "Pribadi & Keluarga",
+        "description": "Kami memberikan dukungan hukum dalam masalah keluarga, termasuk perceraian, warisan, dan hak asuh anak."
+      },
+      "insurance": {
+        "title": "Asuransi",
+        "description": "Kami memberikan panduan terkait polis asuransi dan penyelesaian sengketa antara penanggung dan tertanggung."
+      },
+      "land": {
+        "title": "Pertanahan",
+        "description": "Firma kami menawarkan layanan hukum terkait akuisisi tanah, hak properti, dan transaksi real estate."
+      },
+      "employment": {
+        "title": "Ketenagakerjaan",
+        "description": "Kami mewakili baik pemberi kerja maupun karyawan dalam sengketa ketenagakerjaan, memastikan perlakuan adil dan kepatuhan terhadap undang-undang ketenagakerjaan."
+      },
+      "mining": {
+        "title": "Pertambangan",
+        "description": "Kami memberikan nasihat hukum di sektor pertambangan, memastikan kepatuhan terhadap undang-undang lingkungan dan regulasi terkait."
+      },
+      "plantation": {
+        "title": "Perkebunan",
+        "description": "Kami menawarkan keahlian hukum di industri perkebunan, membantu dalam penggunaan lahan, isu lingkungan, dan kepatuhan regulasi."
       }
     },
-    "our_client": "Klien Kami",
-    "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
+  "our_client": "Klien Kami",
+  "our_client_description": "Kami bangga bermitra dengan perusahaan-perusahaan terkemuka dari berbagai industri."
   },
   "section_our_people": {
     "title": "Tim Kami",
@@ -114,24 +204,147 @@
       "policy": "Perkembangan Kebijakan",
       "legal": "Opini Hukum"
     },
+    "other": "Berita Lainnya",
     "article": {
       "1": {
         "date": "3 September 2020",
         "title": "Jaminan Pemerintah untuk Pelaku Usaha Korporasi Melalui Penjamin yang Ditunjuk dalam Pelaksanaan Program Pemulihan Ekonomi Nasional...",
         "author": "Deystia Ayesha Rae",
-        "description": "Untuk mendukung program pemulihan ekonomi nasional sebagaimana diamanatkan dalam Pasal 19 (2) Peraturan Pemerintah No. 23/2020 yang diubah dengan Peraturan Pemerintah No. 43/2020 mengenai Pelaksanaan Program Pemulihan Ekonomi Nasional dalam Hal Mendukung St..."
+        "description": "Untuk mendukung program pemulihan ekonomi nasional sebagaimana diamanatkan dalam Pasal 19 (2) Peraturan Pemerintah No. 23/2020 yang diubah dengan Peraturan Pemerintah No. 43/2020 mengenai Pelaksanaan Program Pemulihan Ekonomi Nasional dalam Hal Mendukung St...",
+        "docs": "doc. Hadipurwanto Law Office"
       },
       "2": {
         "date": "14 Agustus 2020",
         "title": "Penghentian Penuntutan Berdasarkan Keadilan Restoratif",
         "author": "Andreas Rae Johanes",
-        "description": "Pada 21 Juli 2020, Jaksa Agung Republik Indonesia mengeluarkan Peraturan Kejaksaan No. 15 Tahun 2020 tentang Penghentian Penuntutan Berdasarkan Keadilan Restoratif (“PR 15/2020”) yang mulai berlaku sehari setelah tanggal diterbitkan, yaitu 22 Juli 2020. Latar belakangnya..."
+        "description": "Pada 21 Juli 2020, Jaksa Agung Republik Indonesia mengeluarkan Peraturan Kejaksaan No. 15 Tahun 2020 tentang Penghentian Penuntutan Berdasarkan Keadilan Restoratif (“PR 15/2020”) yang mulai berlaku sehari setelah tanggal diterbitkan, yaitu 22 Juli 2020. Latar belakangnya...",
+        "docs": "doc. Hadipurwanto Law Office"
       },
       "3": {
         "date": "5 April 2018",
         "title": "Peraturan Baru tentang Badan Sertifikasi Profesi Nasional...",
         "author": "Deystia Ayesha Rae",
-        "description": "Pada 16 Maret 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 10 Tahun 2018 tentang Badan Sertifikasi Profesi Nasional (BNSP) (“GR 10/2018”) yang mulai berlaku pada hari yang sama. Peraturan ini diterbitkan untuk menggantikan..."
+        "description": "Pada 16 Maret 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 10 Tahun 2018 tentang Badan Sertifikasi Profesi Nasional (BNSP) (“GR 10/2018”) yang mulai berlaku pada hari yang sama. Peraturan ini diterbitkan untuk menggantikan...",
+        "docs": "doc. Hadipurwanto Law Office"
+      },
+      "4": {
+        "date": "5 April 2018",
+        "title": "Prosedur Pengendalian Impor Komoditas Perikanan dan Komoditas Penggaraman sebagai Bahan Baku dan Bahan Industri",
+        "author": "Andreas Rae Johanes",
+        "description": "Menteri Energi dan Sumber Daya Mineral menetapkan Peraturan Menteri Energi dan Sumber Daya Mineral...",
+        "docs": "doc. Hadipurwanto Law Office"
+      },
+      "5": {
+        "date": "28 Februari 2018",
+        "title": "Perdagangan Minyak dan Gas Bumi di Sektor Hulu",
+        "author": "Andreas Rae Johanes",
+        "description": "Menteri ESDM menetapkan Peraturan Menteri ESDM No. 4 Tahun 2018 tentang Perdagangan Pemanfaatan Minyak dan Gas Bumi di Sektor Hulu untuk mendorong pembangunan infrastruktur gas melalui pipa, meningkatkan pemanfaatan untuk kebutuhan domestik, dan mengatur distribusi gas.",
+        "docs": "doc. Hadipurwanto Law Office"
+      },
+      "6": {
+        "date": "28 Februari 2018",
+        "title": "Standar Pelayanan Minimum untuk Layanan Dasar di Pemerintah Daerah",
+        "author": "Desta Permana",
+        "description": "Pada 5 Januari 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 2 Tahun 2018 tentang Standar Pelayanan Minimum yang berlaku mulai 1 Januari 2019. Regulasi ini mengatur penyediaan layanan dasar wajib oleh pemerintah daerah untuk masyarakat, termasuk pendidikan, kesehatan, pekerjaan umum, perumahan, ketertiban, dan perlindungan sosial.",
+        "docs": "doc. Hadipurwanto Law Office"
+      },
+      "7": {
+        "date": "30 Januari 2018",
+        "title": "Kenaikan Bantuan Keuangan untuk Partai Politik",
+        "author": "Deystia Ayesha Rae",
+        "description": "Pada 5 Januari 2018, Pemerintah mengeluarkan Peraturan Pemerintah No. 1 Tahun 2018 tentang Perubahan Kedua Peraturan Pemerintah No. 5 Tahun 2009 mengenai Bantuan Keuangan untuk Partai Politik, yang mengatur peningkatan bantuan keuangan tahunan untuk partai politik berdasarkan perolehan suara di DPR dan DPRD.",
+        "docs": "doc. Hadipurwanto Law Office"
+      },
+      "8": {
+        "date": "30 Januari 2018",
+        "title": "Harga Jual Gas Bumi Melalui Pipa di Sektor Hilir",
+        "author": "Andreas Rae Johanes",
+        "description": "Pada 29 Desember 2017, Menteri ESDM menetapkan Peraturan Menteri ESDM No. 58 Tahun 2017 tentang Harga Jual Gas Bumi Melalui Pipa pada Kegiatan Usaha Hulu Migas, mengatur harga gas untuk listrik, industri, rumah tangga, dan bahan bakar transportasi, termasuk mekanisme penyesuaian harga dan sanksi administrasi.",
+        "docs": "doc. Hadipurwanto Law Office"
+      }
+    },
+    "news": {
+      "1": {
+        "title": "Jaminan Pemerintah untuk Pelaku Usaha Korporasi Melalui Penjamin yang Ditunjuk dalam Pelaksanaan Program Pemulihan Ekonomi Nasional",
+        "description": {
+          "paragraf_1": "Untuk mendukung program pemulihan ekonomi nasional sebagaimana diamanatkan dalam Pasal 19 (2) Peraturan Pemerintah No. 23/2020 yang diubah dengan Peraturan Pemerintah No. 43/2020 mengenai Pelaksanaan Program Pemulihan Ekonomi Nasional dalam Hal Mendukung Kebijakan Keuangan Negara untuk Menangani Pandemi COVID-19 dan/atau Ancaman Lain terhadap Ekonomi Nasional dan Stabilitas Sistem Keuangan serta Menyelamatkan Perekonomian Nasional (“GR 43/2020”), pada 28 Juli 2020, Kementerian Keuangan menerbitkan Peraturan Menteri Keuangan No. 98/PMK.08/2020 tentang Tata Cara Jaminan Pemerintah untuk Pelaku Usaha Korporasi Melalui Penjamin yang Ditunjuk dalam Pelaksanaan Program Pemulihan Ekonomi Nasional (“PMK 98/2020”), yang berlaku pada hari yang sama.",
+          "paragraf_2": "Latar belakang diterbitkannya PMK 98/2020 adalah untuk melindungi, memelihara, dan meningkatkan kemampuan ekonomi pelaku usaha dalam menjalankan kegiatan bisnis, yaitu dengan memberikan jaminan pemerintah untuk pinjaman modal kerja antara Rp10.000.000.000 hingga Rp1.000.000.000.000, mencakup tunggakan pinjaman dan/atau bunga pinjaman, dengan mempertimbangkan prinsip-prinsip berikut:",
+          "paragraf_3": "Kemampuan keuangan negara; Dukungan kepada pelaku usaha; Penerapan prinsip kehati-hatian serta tata kelola yang baik dan transparan; Tidak menimbulkan moral hazard; serta Pembagian biaya dan risiko di antara para pemangku kepentingan sesuai tugas dan kewenangannya masing-masing.",
+          "paragraf_4": "Sesuai Pasal 6 PMK 98/2020, dalam pelaksanaan jaminan pemerintah, Menteri Keuangan Republik Indonesia (“MoF”) menunjuk Lembaga Pembiayaan Ekspor Indonesia (LPEI) sendiri atau bersama PT Penjaminan Infrastruktur Indonesia (“PT PII”) sebagai penjamin. Dalam hal ini, PT PII hanya bertindak sebagai penjamin bersama LPEI pada kondisi berikut:",
+          "paragraf_5": "Pelaku usaha termasuk dalam kriteria di mana LPEI tidak dapat menjamin secara mandiri; dan/atau kapasitas jaminan LPEI mendekati batas maksimum sesuai peraturan perundang-undangan.",
+          "paragraf_6": "Dengan kata lain, menurut PMK 98/2020, LPEI bertindak sebagai penjamin, pelaku usaha sebagai debitur dijamin, dan bank sebagai penerima jaminan. Dalam melaksanakan tugasnya, sesuai Pasal 10 dan 17 PMK 98/2020, LPEI berhak menerima Imbal Jasa Penjaminan (IJP) dari MoF menggunakan dana APBN. Untuk menjadi peserta program ini, sesuai Lampiran I Huruf A Angka 2 PMK 98/2020, pelaku usaha harus memenuhi beberapa ketentuan:",
+          "paragraf_7": "Pelaku usaha yang menjalankan kegiatan bisnis yang menghasilkan devisa, menabungkan devisa domestik, meningkatkan kapasitas produksi nasional, dan/atau memiliki minimal 300 karyawan; Berbentuk badan hukum; Merupakan debitur eksisting dan/atau debitur baru penerima jaminan; Tidak termasuk dalam daftar hitam nasional; dan Memiliki kredit lancar (kolektibilitas 1 atau 2) per 29 Februari 2020.",
+          "paragraf_8": "Selanjutnya, jika terjadi gagal bayar oleh pelaku usaha sebagai debitur, sesuai Pasal 22 PMK 98/2020, pembayaran klaim yang dilakukan LPEI sebagai penjamin kepada bank sebagai penerima jaminan akan dicatat sebagai piutang LPEI kepada pelaku usaha."
+        }
+      },
+      "2": {
+        "title": "Penghentian Penuntutan Berdasarkan Keadilan Restoratif",
+        "description": {
+          "paragraf_1": "Pada 21 Juli 2020, Jaksa Agung Republik Indonesia mengeluarkan Peraturan Kejaksaan No. 15 Tahun 2020 tentang Penghentian Penuntutan Berdasarkan Keadilan Restoratif (“PR 15/2020”) yang mulai berlaku pada 22 Juli 2020. Tujuannya adalah memberi kesempatan kepada tersangka untuk bertanggung jawab atas tindak pidananya dengan mengembalikan kerugian korban ke kondisi semula.",
+          "paragraf_2": "Berdasarkan Pasal 5 (1) PR 15/2020, ada beberapa syarat untuk menghentikan penuntutan berdasarkan keadilan restoratif, yaitu:",
+          "paragraf_3": "Tersangka melakukan tindak pidana untuk pertama kali; Tindak pidana dapat dipidana dengan hukuman penjara kurang dari lima tahun; dan Nilai kerugian akibat tindak pidana kurang dari Rp2.500.000.",
+          "paragraf_4": "Ketentuan Pasal 5 (1.c) PR 15/2020 dapat dikecualikan untuk tindak pidana yang mengancam nyawa orang dan tindak pidana karena kelalaian (Pasal 5 (3 & 4) PR 15/2020). Selain itu, Pasal 5 (6) PR 15/2020 menetapkan bahwa penghentian penuntutan dapat dilakukan jika telah ada pemulihan kondisi sebelum tindak pidana, adanya rencana penyelesaian antara tersangka dan korban, serta tanggapan positif masyarakat. Namun, penghentian penuntutan tidak berlaku untuk tindak pidana terhadap keamanan negara, kehormatan presiden, ketertiban dan kesusilaan umum, narkotika, lingkungan, dan tindak pidana yang dilakukan oleh korporasi.",
+          "paragraf_5": "Berdasarkan Pasal 9 PR 15/2020, jaksa memfasilitasi mediasi antara tersangka dan korban maksimal 14 hari setelah menerima berkas dan menahan tersangka dari penyidik. Tanpa paksaan, tekanan, atau intimidasi, jaksa akan memediasi. Jika rekonsiliasi berhasil, tersangka dan korban membuat rencana penyelesaian di hadapan jaksa yang memuat pernyataan damai dan pemenuhan kewajiban yang disepakati. Jika tidak berhasil, kasus dilanjutkan ke tahap persidangan (Pasal 10 PR 15/2020).",
+          "paragraf_6": "Berdasarkan Pasal 15 PR 15/2020, jika tersangka telah dipenjara dan kasus dihentikan berdasarkan keadilan restoratif, jaksa wajib segera membebaskan tersangka disertai surat penghentian penuntutan.",
+          "paragraf_7": "Dengan adanya PR 15/2020, jaksa memiliki kewenangan baru, yaitu tidak hanya menuntut tersangka tetapi juga memfasilitasi mediasi antara tersangka dan korban sehingga tercipta situasi harmonis di masyarakat melalui penerapan keadilan restoratif."
+        }
+      },
+      "3": {
+        "title": "Peraturan Baru tentang Badan Sertifikasi Profesi Nasional",
+        "description": {
+          "paragraf_1": "Pada 16 Maret 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 10 Tahun 2018 tentang Badan Sertifikasi Profesi Nasional (BNSP) yang mulai berlaku pada hari yang sama, menggantikan Peraturan Pemerintah No. 23 Tahun 2004. Tujuannya adalah menyesuaikan kebutuhan tenaga kerja profesional dengan kompetensi global.",
+          "paragraf_2": "GR 10/2018 bertujuan meningkatkan kualitas SDM yang kompetitif dan berstandar global melalui sertifikasi oleh BNSP. BNSP bertugas memastikan kompetensi dan pengakuan profesional di semua sektor di Indonesia.",
+          "paragraf_3": "BNSP adalah otoritas independen yang menyelenggarakan sertifikasi kompetensi kerja dan memberikan lisensi kepada Lembaga Sertifikasi Profesi (LSP) yang memenuhi syarat.",
+          "paragraf_4": "Fungsi BNSP antara lain: pelaksanaan dan pengembangan sistem sertifikasi kompetensi kerja; pengembangan pendidikan dan pelatihan vokasi; bimbingan dan pengawasan pelaksanaan sistem sertifikasi kompetensi kerja nasional; pengembangan pengakuan kompetensi nasional dan internasional; pengembangan kerja sama antar lembaga; serta pengembangan sistem data dan sertifikasi terpadu.",
+          "paragraf_5": "Struktur organisasi BNSP terdiri dari 3 posisi: Ketua dari Kemenaker, Wakil Ketua dari masyarakat (asosiasi profesional/industri), dan 5 anggota.",
+          "paragraf_6": "Sekretariat BNSP dibentuk untuk mendukung pelaksanaan tugas BNSP di bawah Kemenaker. Bisa dibentuk maksimal 5 kelompok kerja dan 10 ahli ditunjuk oleh Ketua BNSP.",
+          "paragraf_7": "Ketua, Wakil Ketua, dan anggota wajib menerapkan prinsip koordinasi, integrasi, sinkronisasi, dan transparansi (Pasal 20 GR 10/2018).",
+          "paragraf_8": "Pembiayaan BNSP bersumber dari APBN (Pasal 22 GR 10/2018). GR 23/2004 dinyatakan tidak berlaku (Pasal 25 GR 10/2018). Peraturan pelaksana GR 23/2004 tetap berlaku selama tidak bertentangan dengan GR 10/2018 (Pasal 24 GR 10/2018)."
+        }
+      },
+      "4": {
+        "title": "Prosedur Pengendalian Impor Komoditas Perikanan dan Komoditas Penggaraman sebagai Bahan Baku dan Bahan Industri",
+        "description": {
+          "paragraf_1": "Pada 15 Maret 2018, Pemerintah Republik Indonesia menerbitkan Peraturan Pemerintah No. 9 Tahun 2018 tentang Prosedur Pengendalian Impor Komoditas Perikanan dan Komoditas Penggaraman sebagai Bahan Baku dan Bahan Industri (“GR 9/2018”). Peraturan ini diterbitkan untuk melaksanakan amanat dari Undang-Undang No. 3 Tahun 2014 tentang Perindustrian (Pasal 5, 33, 97) dan Undang-Undang No. 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudidaya Ikan, dan Petani Garam (Pasal 37). Pengendalian impor dilakukan untuk memastikan perlindungan dan pemberdayaan nelayan, pembudidaya ikan, dan petani garam, serta ketersediaan dan distribusi sumber daya alam bagi industri dalam negeri.",
+          "paragraf_2": "Pengendalian impor dilakukan melalui rekomendasi dari Menteri Kelautan dan Perikanan, Menteri Perindustrian, dan persetujuan dari Menteri Perdagangan. Impor dilakukan berdasarkan rekomendasi dari Menteri Kelautan dan Perikanan. Jika digunakan sebagai bahan baku atau bahan penunjang industri, rekomendasi diberikan oleh Menteri Perindustrian. Rekomendasi ini mencakup penetapan titik pasok, jenis, volume, waktu pasok, dan standar kualitas. Setiap pelaku usaha tidak dapat menetapkan sendiri ketentuan tersebut.",
+          "paragraf_3": "Pasal 8(a) GR 9/2018 menetapkan bahwa seluruh peraturan perundangan terkait pengendalian impor tetap berlaku selama tidak bertentangan dengan GR 9/2018."
+        }
+      },
+      "5": {
+        "title": "Perdagangan Pemanfaatan Minyak dan Gas Bumi di Sektor Hulu",
+        "description": {
+          "paragraf_1": "Menteri Energi dan Sumber Daya Mineral menetapkan Peraturan Menteri ESDM No. 4 Tahun 2018 tentang Perdagangan Pemanfaatan Minyak dan Gas Bumi di Sektor Hulu (“MR 4/2018”) untuk mendorong pembangunan infrastruktur gas bumi melalui pipa, meningkatkan pemanfaatan untuk kebutuhan domestik, dan mengakomodasi distribusi gas bumi.",
+          "paragraf_2": "MR 4/2018 membedakan perdagangan gas bumi melalui pipa pada segmen transmisi dan jaringan distribusi regional serta area komersial tertentu, sehingga setiap pelaku usaha selain memiliki izin usaha transportasi migas, juga memiliki hak khusus pada segmen transmisi dan area distribusi.",
+          "paragraf_3": "Segmen transmisi adalah bagian tertentu dari jaringan transmisi gas bumi sebagai bagian dari rencana induk nasional untuk melaksanakan transportasi gas bumi melalui pipa transmisi. Distribusi area adalah area tertentu dari jaringan distribusi gas bumi. Pelaku usaha yang memiliki izin transportasi migas, hak khusus distribusi regional, dan izin usaha migas dapat melakukan perdagangan di beberapa area distribusi dan area komersial tertentu."
+        }
+      },
+      "6": {
+        "title": "Standar Pelayanan Minimum untuk Layanan Dasar di Pemerintah Daerah",
+        "description": {
+          "paragraf_1": "Pada 5 Januari 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 2 Tahun 2018 tentang Standar Pelayanan Minimum (“GR 2/2018”) yang berlaku 1 Januari 2019, sebagai implementasi Pasal 18(3) UU No. 23 Tahun 2014 tentang Pemerintahan Daerah. Regulasi ini mengatur urusan wajib pemerintah yang harus diselenggarakan oleh semua daerah untuk memberikan layanan dasar bagi masyarakat.",
+          "paragraf_2": "Urusan wajib terkait layanan dasar mencakup pendidikan, kesehatan, pekerjaan umum dan tata ruang, perumahan, ketertiban umum, perlindungan masyarakat, dan sosial. Pelaksanaan dilakukan bertahap: pengumpulan data, perhitungan kebutuhan layanan, penyusunan rencana, dan pemenuhan layanan dasar.",
+          "paragraf_3": "Pelaksanaan Standar Pelayanan Minimum dibuat dalam laporan yang memuat hasil, kendala, dan ketersediaan anggaran. Laporan digunakan pemerintah pusat untuk menilai kinerja daerah, mengembangkan kapasitas daerah, dan memperbaiki kebijakan dalam perencanaan dan penganggaran.",
+          "paragraf_4": "Menteri Dalam Negeri melakukan bimbingan umum dan pengawasan provinsi, sedangkan menteri terkait memberikan bimbingan teknis. Bupati/Walikota melaksanakan bimbingan di daerahnya, di bawah pengawasan gubernur.",
+          "paragraf_5": "Gubernur dan Bupati/Walikota wajib melaksanakan ketentuan GR 2/2018. Mereka yang tidak melaksanakan berpotensi dikenakan sanksi administratif sesuai peraturan menteri terkait.",
+          "paragraf_6": "GR 65/2005 tentang Pedoman Penyusunan dan Pelaksanaan Standar Pelayanan Minimum dicabut dan dinyatakan tidak berlaku."
+        }
+      },
+      "7": {
+        "title": "Kenaikan Bantuan Keuangan untuk Partai Politik",
+        "description": {
+          "paragraf_1": "Pada 5 Januari 2018, Pemerintah Republik Indonesia mengeluarkan Peraturan Pemerintah No. 1 Tahun 2018 tentang Perubahan Kedua PP No. 5 Tahun 2009 tentang Bantuan Keuangan untuk Partai Politik (“GR 1/2018”) yang mulai berlaku pada hari yang sama. GR 1/2018 memperkenalkan kenaikan bantuan keuangan tahunan bagi partai politik berdasarkan suara DPR dan DPRD, berasal dari APBN dan APBD.",
+          "paragraf_2": "Bantuan keuangan untuk partai politik tingkat pusat yang memperoleh kursi di DPR sebesar Rp1.000 per suara sah dari APBN. Untuk provinsi yang memperoleh kursi DPRD Rp1.200 per suara dari APBD, dan kota/kabupaten Rp1.500 per suara dari APBD. Dana ini dapat digunakan untuk pendidikan politik anggota partai, operasional sekretariat, administrasi, langganan listrik/air/telepon/pos, pemeliharaan data/arsip, dan peralatan kantor.",
+          "paragraf_3": "Partai politik wajib membuat laporan pertanggungjawaban penerimaan dan pengeluaran dana APBN/APBD tiap tahun setelah diaudit BPK. Partai yang terlambat atau tidak menyerahkan laporan dapat dikenakan sanksi administratif berupa penghentian bantuan sampai laporan ditinjau BPK."
+        }
+      },
+      "8": {
+        "title": "Harga Jual Gas Bumi Melalui Pipa di Sektor Hulu",
+        "description": {
+          "paragraf_1": "Pada 29 Desember 2017, Menteri Energi dan Sumber Daya Mineral menetapkan Peraturan Menteri ESDM No. 58 Tahun 2017 tentang Harga Jual Gas Bumi Melalui Pipa di Kegiatan Usaha Hulu Migas (“MR 58/2017”) untuk melaksanakan ketentuan Pasal 72 PP No. 30 Tahun 2009 tentang Perubahan PP No. 36 Tahun 2004.",
+          "paragraf_2": "Pasal 3 MR 58/2017 mengatur harga jual gas bumi sektor hulu: listrik & industri, rumah tangga & pelanggan kecil, dan bahan bakar transportasi. MR 58/2017 hanya menetapkan formula untuk listrik & industri: harga gas + biaya pengelolaan infrastruktur + biaya komersial. Harga untuk rumah tangga/pelanggan kecil dan bahan bakar transportasi ditetapkan badan pengatur dan Menteri.",
+          "paragraf_3": "Pelaku usaha yang memiliki izin perdagangan migas wajib menyesuaikan harga jual gas sesuai ketentuan maksimal 18 bulan dan membuat laporan bulanan penyesuaian harga gas.",
+          "paragraf_4": "Jika tidak melaksanakan, pelaku usaha dikenakan sanksi administratif bertahap: peringatan tertulis 1 bulan, jika masih tidak patuh, sanksi penghentian sementara 3 bulan, dan akhirnya pencabutan izin usaha."
+        }
       }
     }
   },
@@ -161,6 +374,78 @@
     "address": "Treasury Tower, Lantai 2, Unit K, Distrik 8, SCBD, Jl. Jenderal Sudirman No. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan 12190",
     "phone": "(62 21) 5020 2665",
     "fax": "(62 21) 5020 2665"
-}
-
+  },
+  "people": {
+    "our": "Pengacara Hebat Kita",
+    "1": {
+      "name": "Nicolas Desta Pramana, S.H.",
+      "title": "Managing Partner",
+      "description": {
+        "paragraf_1": "adalah Managing Partner di HLO. Ia lulus dari Fakultas Hukum Universitas Gadjah Mada di Yogyakarta dengan predikat cumlaude. Ia telah berpraktik hukum dengan spesialisasi di bidang litigasi, penyelesaian sengketa komersial, penagihan utang, kontrak komersial, serta mendalami hukum perdata, hukum pidana, hukum perdata internasional, hukum bisnis, hukum telekomunikasi, hukum informasi dan teknologi, hukum persaingan usaha, dan hukum korporasi.",
+        "paragraf_2": "Sebelum mendirikan HLO, ia bekerja di berbagai firma hukum papan atas di Indonesia dan sebuah lembaga bantuan hukum. Selama bertahun-tahun praktiknya, ia telah menangani berbagai klien mulai dari individu, perusahaan (swasta maupun BUMN), kementerian, yayasan, dan organisasi. Ia juga terlibat sebagai kontributor pada publikasi internasional mengenai hukum telekomunikasi. Ia telah diterima sebagai anggota Perhimpunan Advokat Indonesia (PERADI) untuk mewakili klien di pengadilan di Indonesia.",
+        "paragraf_3": "Saat ini, ia mendirikan HLO untuk membantu klien dalam tantangan bisnis maupun sengketa yang mereka hadapi di Indonesia."
+      }
+    },
+    "2": {
+      "name": "Ary Ramadhanoe Amanza, S.H., S.E., M.H.",
+      "title": "Senior Associate",
+      "description": {
+        "paragraf_1": "adalah Senior Associate di Hadipurwanto Law Office. Ia meraih gelar ganda dari Fakultas Hukum Universitas Gadjah Mada pada tahun 2015 dengan konsentrasi Hukum Perdata, dan dari Fakultas Ekonomi Universitas Mercubuana Yogyakarta pada tahun 2016 dengan konsentrasi Manajemen. Ia juga meraih gelar Magister Hukum dari Universitas Gadjah Mada dengan konsentrasi Hukum Bisnis pada tahun 2018.",
+        "paragraf_2": "Sebelum bergabung dengan Hadipurwanto Law Office pada 2021, ia bekerja di sebuah firma hukum di Jakarta dan memiliki pengalaman dalam mendampingi serta mewakili klien dalam transaksi korporasi, restrukturisasi, berbagai investasi korporasi, merger dan akuisisi, serta proses pengadaan untuk proyek Independent Power Plant (IPP).",
+        "paragraf_3": "Sejak bergabung dengan Hadipurwanto Law Office, praktiknya berfokus pada hukum pidana dan litigasi komersial. Ia juga merupakan anggota PERADI dan berkomitmen memberikan pendampingan hukum yang menyeluruh dan efektif. Ia memiliki passion dalam memperjuangkan keadilan dan memastikan tercapainya hasil yang adil bagi klien."
+      }
+    },
+    "3": {
+      "name": "Irfan Andityo, S.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "adalah Associate di Hadipurwanto Law Office. Ia lulus dari Fakultas Hukum Universitas Indonesia pada tahun 2019 dengan konsentrasi Hukum Perdata. Sejak kelulusan, ia bekerja di salah satu firma hukum ternama di Jakarta dan memiliki pengalaman dalam berbagai sengketa perdata komersial, proses pidana, seluruh rangkaian litigasi, penyelesaian sengketa non-litigasi, serta memberikan nasihat hukum kepada klien dalam penyelesaian sengketa melalui pengadilan negeri, pengadilan tata usaha negara, maupun arbitrase.",
+        "paragraf_2": "Sebelum bergabung dengan Hadipurwanto Law Office, Irfan memiliki pengalaman memberikan layanan kepada klien dari berbagai sektor, termasuk perusahaan minyak dan gas, perusahaan tambang, perusahaan sekuritas, pengembang properti, individu berprofil tinggi, serta memperoleh lisensi Advokat PERADI pada tahun 2021.",
+        "paragraf_3": "Sejak bergabung dengan Hadipurwanto Law Office, Irfan memiliki lebih banyak kesempatan untuk mengeksplorasi, memahami, dan mendampingi kebutuhan spesifik para klien."
+      }
+    },
+    "4": {
+      "name": "Fabyani Fadillah, S.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "adalah Associate di Hadipurwanto Law Office. Ia lulus dari Fakultas Hukum Universitas Indonesia pada tahun 2018.",
+        "paragraf_2": "Sebelum bergabung dengan Hadipurwanto Law Office, Fanny bekerja di salah satu firma hukum litigasi ternama di Jakarta, dan memiliki pengalaman dalam menangani administrasi perkara, memelihara dan memperbarui berkas hukum, serta menyiapkan dan menyusun dokumen hukum. Ia juga memberikan nasihat dan pendampingan kepada berbagai klien, serta terlibat dalam proses litigasi baik untuk penyelesaian sengketa maupun non-sengketa.",
+        "paragraf_3": "Sejak bergabung dengan Hadipurwanto Law Office, ia semakin memiliki kesempatan untuk belajar, memahami, dan mendalami litigasi komersial."
+      }
+    },
+    "5": {
+      "name": "Amabel S. M. Panjaitan, S.H., M.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "adalah Associate di Hadipurwanto Law Office (“HLO”). Ia meraih gelar sarjana hukum dari Universitas Pancasila di Jakarta dan melanjutkan pendidikan dengan meraih gelar Magister Hukum dengan predikat cumlaude dari Universitas Pembangunan Nasional Veteran Jakarta.",
+        "paragraf_2": "Amabel memiliki spesialisasi di bidang hukum korporasi dan penyelesaian sengketa, serta memiliki pengalaman berharga dalam menangani perkara hukum yang kompleks bagi klien domestik maupun internasional. Ia dikenal dengan kemampuan analitisnya yang tajam dan pendekatannya yang strategis dalam menghadapi tantangan hukum.",
+        "paragraf_3": "Dengan ketertarikan yang kuat pada riset hukum, Amabel selalu mengikuti perkembangan terbaru hukum Indonesia maupun tren hukum internasional, yang ia terapkan untuk memberikan solusi komprehensif dan inovatif kepada klien. Dedikasinya pada praktik hukum serta komitmen terhadap hasil terbaik menjadikannya sosok yang dipercaya di dalam firma maupun oleh para klien."
+      }
+    },
+    "6": {
+      "name": "Aro Sintong Malau, S.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "adalah Associate di Hadipurwanto Law Office (“HLO”). Ia lulus dari Fakultas Hukum Universitas Indonesia pada tahun 2020 dengan konsentrasi Hukum Bisnis. Sejak kelulusan, ia bekerja sebagai legal officer di perusahaan start-up sehingga ia mendapatkan pengalaman dari perspektif komersial.",
+        "paragraf_2": "Sebelum bergabung dengan HLO, Aro bekerja sebagai Associate di salah satu firma hukum di Jakarta, dengan pengalaman dalam memberi nasihat serta mendampingi klien terkait kebutuhan spesifik mereka, menyusun dan meninjau berbagai dokumen, serta melakukan legal due diligence. Di bidang penyelesaian sengketa, ia juga memiliki pengalaman mendampingi klien menyelesaikan perkara melalui pengadilan negeri, pengadilan tata usaha negara, dan arbitrase.",
+        "paragraf_3": "Sejak bergabung dengan HLO, Aro memiliki lebih banyak kesempatan untuk mengeksplorasi, memahami, dan membantu klien sesuai kebutuhan mereka."
+      }
+    }
+  },
+  "tab": {
+    "coming": "Segera Hadir",
+    "description": "Kami sedang bekerja keras untuk menghadirkan insight dan artikel terbaru tentang {{label}}.",
+    "indicator": "Nantikan pembaruan selanjutnya",
+    "label": {
+      "court": "Pengadilan",
+      "industry": "Industri",
+      "policy": "Kebijakan",
+      "legal": "Hukum"
+    }
+  },
+  "not_found": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Sepertinya kami tidak dapat menemukan halaman yang Anda minta.",
+    "back_button": "Kembali"
+  }
 }

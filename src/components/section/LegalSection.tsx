@@ -8,6 +8,7 @@ import {
   TabsList,
   TabsTrigger,
 } from "@/common/componentShadcn/ui/tabs"
+import ComingSoon from "../ComingSoon";
 
 import image01 from "@/assets/image-21.jpg"
 import image02 from "@/assets/image-22.jpg"
@@ -53,17 +54,17 @@ export default function LegalSection() {
         <Card className="bg-black-medium border-black-medium rounded-none py-0!">
           <div className="py-6 md:py-10">
             <div className="text-center px-4">
-              <p className="text-4xl text-gold-medium fonts-inter font-semibold">
+              <p className="text-2xl md:text-4xl text-gold-medium fonts-inter font-semibold">
                 {t("section_legal.title")}
               </p>
-              <p className="text-grey-medium text-base fonts-inter py-2">
+              <p className="text-grey-medium text-sm md:text-base fonts-inter py-2">
                 {t("section_legal.description")}
               </p>
             </div>
 
             <div className="flex justify-center items-center">
               <Tabs defaultValue="regulatory" className="w-full">
-                <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center px-4 pt-1 md:px-20 md:pt-12">
+                <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center items-center px-4 pt-1 md:px-20 md:pt-12 relative z-50">
                   {tabs.map((tab) => (
                     <TabsTrigger key={tab.value} value={tab.value} className={tabClass}>
                       {t(tab.label)}
@@ -84,16 +85,16 @@ export default function LegalSection() {
                         </div>
 
                         <div className="flex-1 flex flex-col gap-2">
-                          <p className="text-grey-medium text-base font-normal fonts-inter">
+                          <p className="text-grey-medium text-sm md:text-base font-normal fonts-inter">
                             {t(article.date)}
                           </p>
-                          <p className="text-white text-2xl font-bold fonts-inter">
+                          <p className="text-white text-lg md:text-2xl font-bold fonts-inter">
                             {t(article.title)}
                           </p>
-                          <p className="text-grey-medium text-xs font-normal fonts-inter">
-                            By <span className="text-white text-xs font-normal fonts-inter">{t(article.author)}</span>
+                          <p className="text-grey-medium text-sm md:text-xs font-normal fonts-inter">
+                            By <span className="text-white text-sm md:text-xs font-normal fonts-inter">{t(article.author)}</span>
                           </p>
-                          <p className="text-grey-medium text-base font-medium fonts-inter">
+                          <p className="text-grey-medium text-sm md:text-base font-medium fonts-inter">
                             {t(article.description)}
                           </p>
                         </div>
@@ -117,6 +118,22 @@ export default function LegalSection() {
                       </a>
                     </Button>
                   </div>
+                </TabsContent>
+
+                <TabsContent value="court" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="court" />
+                </TabsContent>
+
+                <TabsContent value="industry" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="industry" />
+                </TabsContent>
+
+                <TabsContent value="policy" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="policy" />
+                </TabsContent>
+
+                <TabsContent value="legal" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="legal" />
                 </TabsContent>
               </Tabs>
             </div>

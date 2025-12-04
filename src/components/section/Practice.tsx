@@ -22,17 +22,17 @@ export default function Practice() {
 
   return (
     <main className="bg-black-deep">
-        <section className="flex flex-col px-6 md:p-20 gap-4">
+        <section className="flex flex-col px-6 md:p-20 md:gap-4">
             <div className="grid grid-cols-1 md:grid-cols-2 py-4">
                 <div>
                     <p className="text-4xl text-gold-medium fonts-inter font-semibold">{t("section_practice_areas.title")}</p>
                 </div>
-                <div className="py-2">
+                <div className="py-6 md:py-2">
                     <p className="text-white text-base text-justify fonts-inter">{t("section_practice_areas.description")}</p>
                 </div>
             </div>
 
-            <div className="grid grid-rows-2 md:py-4">
+            <div className="flex flex-col md:grid md:grid-rows-2 md:py-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 justify-center items-center gap-6">
                     <Card className="bg-black-medium border-black-medium rounded-none">
                         <CardHeader>
@@ -77,7 +77,7 @@ export default function Practice() {
                     </Card>                    
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:py-4 max-w-4xl mx-auto">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 py-6 md:py-4 max-w-4xl mx-auto">
                     <Card className="bg-black-medium border-black-medium rounded-none">
                         <CardHeader>
                             <img src={companyIcon} alt="bag-icon" />
@@ -108,7 +108,7 @@ export default function Practice() {
                 </div>
             </div>
 
-            <div className="grid grid-cols justify-center items-center text-center py-2 md:py-4">
+            <div className="grid grid-cols justify-center items-center text-center pb-6 md:py-4">
                 <Button asChild className="bg-gold-medium hover:bg-gold-medium text-white rounded-none">
                     <a href="/practice" className="flex items-center gap-2">
                         <span className="text-sm fonts-inter text-black">{t("section_practice_areas.see_more")}</span>

@@ -1,4 +1,3 @@
-import Layout from "@/components/layout/Layout"
 import HomeSection from "@/components/section/HomeSection"
 import AboutSection from "@/components/section/AboutSection";
 import Practice from "@/components/section/Practice";
@@ -10,7 +9,6 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <>
-    <Layout>
       <HomeSection/>
       <AboutSection/>
       <Practice/>
@@ -18,7 +16,6 @@ export default function Home() {
       <LegalSection/>
       <ConsultationForm/>
       <Footer/>
-    </Layout>
     </>
   )
 }
