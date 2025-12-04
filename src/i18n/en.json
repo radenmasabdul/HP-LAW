@@ -308,5 +308,16 @@
         "paragraf_3": "Since joining HLO, Aro has more opportunities to explore, understand, and assist clients with their specific necessities."
       }
     }
+  },
+  "tab": {
+    "coming": "Coming Soon",
+    "description": "We're working hard to bring you the latest {{label}} insights and articles.",
+    "indicator": "Stay tuned for updates",
+    "label": {
+      "court": "Court",
+      "industry": "Industry",
+      "policy": "Policy",
+      "legal": "Legal"
+    }
   }
 }

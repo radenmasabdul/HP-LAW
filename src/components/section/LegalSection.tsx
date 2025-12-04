@@ -8,6 +8,7 @@ import {
   TabsList,
   TabsTrigger,
 } from "@/common/componentShadcn/ui/tabs"
+import ComingSoon from "../ComingSoon";
 
 import image01 from "@/assets/image-21.jpg"
 import image02 from "@/assets/image-22.jpg"
@@ -63,7 +64,7 @@ export default function LegalSection() {
 
             <div className="flex justify-center items-center">
               <Tabs defaultValue="regulatory" className="w-full">
-                <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center px-4 pt-1 md:px-20 md:pt-12">
+                <TabsList className="bg-transparent border-0 gap-2 md:gap-4 flex-wrap md:flex-nowrap justify-center items-center px-4 pt-1 md:px-20 md:pt-12 relative z-50">
                   {tabs.map((tab) => (
                     <TabsTrigger key={tab.value} value={tab.value} className={tabClass}>
                       {t(tab.label)}
@@ -117,6 +118,22 @@ export default function LegalSection() {
                       </a>
                     </Button>
                   </div>
+                </TabsContent>
+
+                <TabsContent value="court" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="court" />
+                </TabsContent>
+
+                <TabsContent value="industry" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="industry" />
+                </TabsContent>
+
+                <TabsContent value="policy" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="policy" />
+                </TabsContent>
+
+                <TabsContent value="legal" className="px-4 md:px-10 pt-24 md:pt-10">
+                  <ComingSoon tabName="legal" />
                 </TabsContent>
               </Tabs>
             </div>

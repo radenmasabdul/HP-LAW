@@ -308,5 +308,16 @@
         "paragraf_3": "Sejak bergabung dengan HLO, Aro memiliki lebih banyak kesempatan untuk mengeksplorasi, memahami, dan membantu klien sesuai kebutuhan mereka."
       }
     }
+  },
+  "tab": {
+    "coming": "Segera Hadir",
+    "description": "Kami sedang bekerja keras untuk menghadirkan insight dan artikel terbaru tentang {{label}}.",
+    "indicator": "Nantikan pembaruan selanjutnya",
+    "label": {
+      "court": "Pengadilan",
+      "industry": "Industri",
+      "policy": "Kebijakan",
+      "legal": "Hukum"
+    }
   }
 }
