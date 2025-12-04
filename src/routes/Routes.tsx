@@ -11,7 +11,7 @@ export default function AppRoutes() {
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/practice" element={<Practice />} />
-                <Route path="/people" element={<People />} />
+                <Route path="/people/:id" element={<People />} />
             </Routes>
         </BrowserRouter>
     )

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useParams, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import Layout from "@/components/layout/Layout"
 import image09 from "@/assets/image-09.jpg"
@@ -101,7 +102,12 @@ const data: Data[] = [
 
 export default function People() {
   const { t } = useTranslation();
-  const [selected, setSelected] = useState<Data>(data[0]);
+  const { id } = useParams();
+  const navigate = useNavigate();
+  const selectedId = Number(id);
+
+  const initial = data.find((item) => item.id === selectedId) || data[0];
+  const [selected, setSelected] = useState<Data>(initial);
 
 
   return (
@@ -153,7 +159,10 @@ export default function People() {
                   <div
                     key={item.id}
                     className="py-4 cursor-pointer"
-                    onClick={() => setSelected(item)}
+                    onClick={() => {
+                      setSelected(item);
+                      navigate(`/people/${item.id}`);
+                    }}
                   >
                     <p className={`text-xs md:text-sm font-bold fonts-inter ${
                       selected.id === item.id ? "text-gold-medium" : "text-grey-deep"}`}>
@@ -169,7 +178,6 @@ export default function People() {
             </div>
           </div>
         </section>
-
       </main>
     </Layout>
   )
