@@ -4,6 +4,7 @@ import Home from "@/pages/Home";
 import About from "@/pages/About";
 import Practice from "@/pages/Practice";
 import People from "@/pages/People";
+import Legal from "@/pages/Legal";
 
 export default function AppRoutes() {
     return (
@@ -15,6 +16,8 @@ export default function AppRoutes() {
           <Route path="/practice" element={<Practice />} />
           <Route path="/people" element={<People />} />
           <Route path="/people/:id" element={<People />} />
+          <Route path="/news" element={<Legal />} />
+          <Route path="/news/:id" element={<Legal />} />
         </Routes>
       </Layout>
     </BrowserRouter>
