@@ -5,6 +5,7 @@ import About from "@/pages/About";
 import Practice from "@/pages/Practice";
 import People from "@/pages/People";
 import Legal from "@/pages/Legal";
+import NotFound from "@/pages/NotFound";
 
 export default function AppRoutes() {
     return (
@@ -18,6 +19,7 @@ export default function AppRoutes() {
           <Route path="/people/:id" element={<People />} />
           <Route path="/news" element={<Legal />} />
           <Route path="/news/:id" element={<Legal />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </Layout>
     </BrowserRouter>

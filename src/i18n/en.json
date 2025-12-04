@@ -444,5 +444,10 @@
       "policy": "Policy",
       "legal": "Legal"
     }
+  },
+  "not_found": {
+    "title": "Page Not Found",
+    "description": "We can't seem to find the page you requested.",
+    "home": "Back"
   }
 }

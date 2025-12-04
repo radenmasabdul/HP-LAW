@@ -442,5 +442,10 @@
       "policy": "Kebijakan",
       "legal": "Hukum"
     }
+  },
+  "not_found": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Sepertinya kami tidak dapat menemukan halaman yang Anda minta.",
+    "back_button": "Kembali"
   }
 }
