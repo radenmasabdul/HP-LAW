@@ -246,5 +246,62 @@
     "address": "Treasury Tower, 2nd Floor, Unit K, District 8, SCBD, Jenderal Sudirman Street No. 52-53, Senayan, Kebayoran Baru, South Jakarta 12190, Indonesia",
     "phone": "(62 21) 5020 2665",
     "fax": "(62 21) 5020 2665"
+  },
+  "people": {
+    "our": "Our Great Lawyers",
+    "1": {
+      "name": "Nicolas Desta Pramana, S.H.",
+      "title": "Managing Partner",
+      "description": {
+        "paragraf_1": "is the Managing Partner of HLO. He graduated in law with cumlaude predicate from Universitas Gadjah Mada in Yogyakarta. He has been practicing law specializing in litigation, commercial dispute settlement, debt collection, commercial contracts in addition to being an expert in civil law, criminal law, private international law, business law, telecommunication law, information and technology law, anti-competition law and corporate law.",
+        "paragraf_2": "Prior to HLO, he has been working in various top tier law firms in Indonesia and a legal aid foundation. Through the years of his practice in law, he has handled various clients: individual, company (private and state-owned), ministry, foundation and organizations. He was also involved as a contributor in an international publication on telecommunication law. He is admitted by the Indonesian Bar Association (PERADI) to represent clients before the court in Indonesia.",
+        "paragraf_3": "At this point in time, he has founded HLO to help client in their business challenges or dispute involved in Indonesia."
+      }
+    },
+    "2": {
+      "name": "Ary Ramadhanoe Amanza, S.H., S.E., M.H.",
+      "title": "Senior Associate",
+      "description": {
+        "paragraf_1": "is a Senior Associate of Hadipurwanto Law Office. He graduated with double degrees from both the Faculty of Law Gadjah Mada University in 2015 majoring Civil Law and the Faculty of Economics Mercubuana Yogyakarta University in 2016 majoring Management. He also earned his Master's Degree in Law from Gadjah Mada University majoring Business Law graduated in 2018.",
+        "paragraf_2": "Prior to joining Hadipurwanto Law Office in 2021, he was in a law firm in Jakarta and he has recorded a proven success in assisting and representing clients in corporate transaction and restructuring, various corporate investment, restructure, merger and acquisition, and Procurement process to bid Independent Power Plant (IPP).",
+        "paragraf_3": "Since joining Hadipurwanto Law Office, his practices mainly focused on criminal law and commercial litigation. He is also a member of the Indonesian Advocates Association (PERADI) and committed to providing clients with thorough and effective representation. Passionate about advocating for justice and ensuring fair outcomes in the legal system."
+      }
+    },
+    "3": {
+      "name": "Irfan Andityo, S.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "is an Associate at Hadipurwanto Law Office. He graduated from Faculty of Law University of Indonesia in 2019 majoring in Civil Law. Starting from graduation, He has work at one of the well-known Law Firms in Jakarta and had experience in numerous Commercial Civil Dispute, criminal proceedings, involved in the whole litigation process, involved in multiple Non-Dispute Resolution in order to reach a settlement agreement before having to take further legal action, and also advising and assisting clients to resolve dispute through district court, state administrative court, and arbitration.",
+        "paragraf_2": "Prior to joining Hadipurwanto Law Office, Irfan was experiences at servicing clients from various backgrounds, among other thing, oil & gas companies, mining companies, securities companies, property developers, high-profile individuals, and also obtained Indonesian Advocate license (PERADI) in 2021.",
+        "paragraf_3": "Since joining Hadipurwanto Law Office, Irfan has more opportunities to explore, understand, and assisting clients with their specific necessities."
+      }
+    },
+    "4": {
+      "name": "Fabyani Fadillah, S.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "is an Associate of Hadipurwanto Law Office. She graduated from the Faculty of Law Universitas Indonesia in 2018.",
+        "paragraf_2": "Before joining Hadipurwanto Law Office, Fanny worked at one of the well-known litigation law firm in Jakarta, and she has experience handling the administration of cases, as well as maintaining, updating, preparing, and drafting legal documents. She also gives advice and assists numerous clients and is involved in a whole litigation process both in dispute resolution and non-dispute resolution.",
+        "paragraf_3": "Since joining Hadipurwanto Law Office, she had more opportunities to explore, learning, understand, and about commercial litigation."
+      }
+    },
+    "5": {
+      "name": "Amabel S. M. Panjaitan, S.H., M.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "is an Associate of Hadipurwanto Law Office (“HLO”). He earned his bachelor’s degree in law from Pancasila University in Jakarta and furthered his education with a Master of Laws degree with cumlaude predicate from University of Pembangunan Nasional Veteran Jakarta.",
+        "paragraf_2": "Amabel specializes in corporate law and dispute resolution, bringing valuable experience in handling complex legal matters for both domestic and international clients. He is known for his sharp analytical skills and his ability to navigate intricate legal challenges with a strategic approach.",
+        "paragraf_3": "With a strong passion for legal research, Amabel consistently stays updated with the latest developments in Indonesian law and international legal trends, which he applies to provide comprehensive and innovative solutions to clients. His dedication to the practice of law and commitment to achieving optimal outcomes for clients has earned him a solid reputation within the firm and among clients."
+      }
+    },
+    "6": {
+      "name": "Aro Sintong Malau, S.H.",
+      "title": "Associate",
+      "description": {
+        "paragraf_1": "is an Associate at Hadipurwanto Law Office (“HLO”). He graduated from the Faculty of Law of the Universitas Indonesia in 2020 majoring in Business Law. Starting from graduation, he has worked as a legal officer in start-up companies where he had opportunities to encounter the legal perspective from the commercial side.",
+        "paragraf_2": "Prior to joining HLO, Aro was an Associate to a law firm in Jakarta where he has experience advising and assisting clients in terms of specific necessities, drafting and reviewing various documents, and conducting legal due diligence. Whereas for dispute resolution matters, Aro also has experience advising and assisting clients to resolve disputes through district court, state administrative court, and arbitration.",
+        "paragraf_3": "Since joining HLO, Aro has more opportunities to explore, understand, and assist clients with their specific necessities."
+      }
+    }
   }
 }
